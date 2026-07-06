@@ -1,0 +1,9058 @@
+{
+  "Ad Block 2x3": {
+    "avg": [
+      42,
+      60,
+      40
+    ],
+    "variance": 3409.8
+  },
+  "Ad Block 3x2": {
+    "avg": [
+      76,
+      31,
+      27
+    ],
+    "variance": 4780.19
+  },
+  "Ad Block 6x1": {
+    "avg": [
+      29,
+      52,
+      62
+    ],
+    "variance": 3215.29
+  },
+  "Adventure Idol Gate": {
+    "avg": [
+      221,
+      157,
+      35
+    ],
+    "variance": 7184.91
+  },
+  "Air Duct": {
+    "avg": [
+      115,
+      115,
+      115
+    ],
+    "variance": 742.03
+  },
+  "Amber Glass": {
+    "avg": [
+      230,
+      213,
+      139
+    ],
+    "variance": 3964.23
+  },
+  "Anatomical Diagrams": {
+    "avg": [
+      151,
+      136,
+      125
+    ],
+    "variance": 4458.38
+  },
+  "Angry Block": {
+    "avg": [
+      213,
+      60,
+      70
+    ],
+    "variance": 6723.59
+  },
+  "Aqua Wallpaper": {
+    "avg": [
+      12,
+      160,
+      130
+    ],
+    "variance": 105.08
+  },
+  "Architectural Diagrams": {
+    "avg": [
+      173,
+      164,
+      152
+    ],
+    "variance": 5375.59
+  },
+  "Art Deco Block": {
+    "avg": [
+      96,
+      91,
+      59
+    ],
+    "variance": 7059.34
+  },
+  "Art Wall": {
+    "avg": [
+      228,
+      200,
+      115
+    ],
+    "variance": 205.19
+  },
+  "Audio Rack": {
+    "avg": [
+      69,
+      69,
+      65
+    ],
+    "variance": 4187.65
+  },
+  "Autumn Background": {
+    "avg": [
+      135,
+      53,
+      31
+    ],
+    "variance": 3168.55
+  },
+  "Autumn Block": {
+    "avg": [
+      188,
+      103,
+      33
+    ],
+    "variance": 6508.31
+  },
+  "Autumn Leaf Block": {
+    "avg": [
+      171,
+      74,
+      5
+    ],
+    "variance": 6534.59
+  },
+  "Autumn Viney Block": {
+    "avg": [
+      129,
+      49,
+      3
+    ],
+    "variance": 8813.95
+  },
+  "Autumn Viney Wallpaper": {
+    "avg": [
+      149,
+      66,
+      1
+    ],
+    "variance": 4375.55
+  },
+  "Barn Block": {
+    "avg": [
+      199,
+      98,
+      107
+    ],
+    "variance": 16597.3
+  },
+  "Barn Door": {
+    "avg": [
+      199,
+      109,
+      117
+    ],
+    "variance": 17171.51
+  },
+  "Barricaded Door": {
+    "avg": [
+      167,
+      159,
+      138
+    ],
+    "variance": 4069.09
+  },
+  "Basic Blue Block": {
+    "avg": [
+      0,
+      49,
+      67
+    ],
+    "variance": 1328.62
+  },
+  "Batik Kawung Pattern Background": {
+    "avg": [
+      132,
+      87,
+      70
+    ],
+    "variance": 15731.83
+  },
+  "Batik Parang Pattern Block": {
+    "avg": [
+      137,
+      145,
+      158
+    ],
+    "variance": 24440.25
+  },
+  "Biological Diagram - Fauna": {
+    "avg": [
+      179,
+      170,
+      158
+    ],
+    "variance": 2574.49
+  },
+  "Black Wallpaper": {
+    "avg": [
+      33,
+      33,
+      33
+    ],
+    "variance": 200.12
+  },
+  "Bling Background": {
+    "avg": [
+      216,
+      158,
+      69
+    ],
+    "variance": 12667.09
+  },
+  "Blue Royal Wallpaper": {
+    "avg": [
+      63,
+      86,
+      99
+    ],
+    "variance": 5176.28
+  },
+  "Blue Star Wallpaper": {
+    "avg": [
+      41,
+      60,
+      162
+    ],
+    "variance": 14126.14
+  },
+  "Blue Wallpaper": {
+    "avg": [
+      38,
+      126,
+      223
+    ],
+    "variance": 99.3
+  },
+  "Bodacious Blue Dancefloor": {
+    "avg": [
+      44,
+      103,
+      197
+    ],
+    "variance": 9665.0
+  },
+  "Botanical Diagram - Flora": {
+    "avg": [
+      165,
+      156,
+      144
+    ],
+    "variance": 6758.91
+  },
+  "Bountiful Flowering Lattice": {
+    "avg": [
+      150,
+      112,
+      86
+    ],
+    "variance": 8780.66
+  },
+  "Bountiful Jungle Temple Door": {
+    "avg": [
+      114,
+      117,
+      81
+    ],
+    "variance": 7653.65
+  },
+  "Brick Background": {
+    "avg": [
+      102,
+      45,
+      22
+    ],
+    "variance": 529.05
+  },
+  "Brown Wallpaper": {
+    "avg": [
+      134,
+      83,
+      39
+    ],
+    "variance": 37.97
+  },
+  "Bubble Wrap": {
+    "avg": [
+      143,
+      177,
+      206
+    ],
+    "variance": 1378.52
+  },
+  "Campaign Poster": {
+    "avg": [
+      147,
+      99,
+      90
+    ],
+    "variance": 24130.7
+  },
+  "Carnival Wallpaper": {
+    "avg": [
+      217,
+      78,
+      20
+    ],
+    "variance": 4326.0
+  },
+  "Celtic Background": {
+    "avg": [
+      148,
+      143,
+      119
+    ],
+    "variance": 6388.77
+  },
+  "Ceramic Tile": {
+    "avg": [
+      241,
+      233,
+      212
+    ],
+    "variance": 3962.31
+  },
+  "Chain Quilt Background": {
+    "avg": [
+      126,
+      169,
+      97
+    ],
+    "variance": 1945.77
+  },
+  "Chalkboard": {
+    "avg": [
+      92,
+      91,
+      69
+    ],
+    "variance": 2364.64
+  },
+  "Checker Wallpaper": {
+    "avg": [
+      158,
+      163,
+      157
+    ],
+    "variance": 20854.25
+  },
+  "Chi Harmonizer": {
+    "avg": [
+      131,
+      123,
+      95
+    ],
+    "variance": 6454.74
+  },
+  "Chinese Temple Background": {
+    "avg": [
+      116,
+      43,
+      6
+    ],
+    "variance": 4987.05
+  },
+  "Chocolate Block": {
+    "avg": [
+      119,
+      90,
+      53
+    ],
+    "variance": 729.55
+  },
+  "Chocolate Cherry Block": {
+    "avg": [
+      93,
+      22,
+      10
+    ],
+    "variance": 5665.42
+  },
+  "Chocolate Orange Block": {
+    "avg": [
+      143,
+      87,
+      41
+    ],
+    "variance": 3773.73
+  },
+  "Chocolate Sprinkles Block": {
+    "avg": [
+      77,
+      48,
+      33
+    ],
+    "variance": 7802.52
+  },
+  "Chocolate Swirl Block": {
+    "avg": [
+      138,
+      101,
+      67
+    ],
+    "variance": 14499.21
+  },
+  "Clouds Wallpaper": {
+    "avg": [
+      174,
+      250,
+      252
+    ],
+    "variance": 1606.45
+  },
+  "Code Block_ Charlie": {
+    "avg": [
+      196,
+      180,
+      130
+    ],
+    "variance": 16085.54
+  },
+  "Code Block_ Edamame": {
+    "avg": [
+      198,
+      183,
+      134
+    ],
+    "variance": 15947.12
+  },
+  "Code Block_ Kappa": {
+    "avg": [
+      197,
+      181,
+      131
+    ],
+    "variance": 16053.46
+  },
+  "Code Block_ Ouroboros": {
+    "avg": [
+      196,
+      180,
+      130
+    ],
+    "variance": 16085.54
+  },
+  "Coin Door": {
+    "avg": [
+      201,
+      127,
+      87
+    ],
+    "variance": 13552.48
+  },
+  "Commercial Oven": {
+    "avg": [
+      150,
+      154,
+      162
+    ],
+    "variance": 11043.06
+  },
+  "Compu Panel": {
+    "avg": [
+      158,
+      171,
+      146
+    ],
+    "variance": 17006.77
+  },
+  "Cotton Candy Swirl Background": {
+    "avg": [
+      125,
+      94,
+      169
+    ],
+    "variance": 3497.34
+  },
+  "Creepy Wallpaper": {
+    "avg": [
+      49,
+      53,
+      39
+    ],
+    "variance": 90.43
+  },
+  "Cutaway Building": {
+    "avg": [
+      88,
+      88,
+      88
+    ],
+    "variance": 11599.5
+  },
+  "Dark Aqua Wallpaper": {
+    "avg": [
+      0,
+      75,
+      42
+    ],
+    "variance": 147.38
+  },
+  "Dark Blue Wallpaper": {
+    "avg": [
+      0,
+      37,
+      146
+    ],
+    "variance": 198.11
+  },
+  "Dark Brown Wallpaper": {
+    "avg": [
+      63,
+      35,
+      5
+    ],
+    "variance": 75.56
+  },
+  "Dark Castle Door": {
+    "avg": [
+      52,
+      31,
+      60
+    ],
+    "variance": 3761.98
+  },
+  "Dark Chocolate Block": {
+    "avg": [
+      60,
+      17,
+      0
+    ],
+    "variance": 1520.67
+  },
+  "Dark Green Wallpaper": {
+    "avg": [
+      0,
+      74,
+      0
+    ],
+    "variance": 92.51
+  },
+  "Dark Grey Wallpaper": {
+    "avg": [
+      95,
+      95,
+      95
+    ],
+    "variance": 175.1
+  },
+  "Dark Orange Wallpaper": {
+    "avg": [
+      122,
+      66,
+      0
+    ],
+    "variance": 194.08
+  },
+  "Dark Purple Wallpaper": {
+    "avg": [
+      92,
+      0,
+      147
+    ],
+    "variance": 208.14
+  },
+  "Dark Red Wallpaper": {
+    "avg": [
+      134,
+      0,
+      12
+    ],
+    "variance": 81.31
+  },
+  "Dark Walnut Wall": {
+    "avg": [
+      54,
+      29,
+      20
+    ],
+    "variance": 370.75
+  },
+  "Dark Yellow Wallpaper": {
+    "avg": [
+      130,
+      110,
+      0
+    ],
+    "variance": 369.03
+  },
+  "Decorative Paper Wall": {
+    "avg": [
+      191,
+      156,
+      157
+    ],
+    "variance": 13018.12
+  },
+  "Diamond Brick Background": {
+    "avg": [
+      31,
+      135,
+      150
+    ],
+    "variance": 4595.85
+  },
+  "Diamond Fiesta Block": {
+    "avg": [
+      93,
+      188,
+      202
+    ],
+    "variance": 10471.19
+  },
+  "Diamond Mondrian Block": {
+    "avg": [
+      132,
+      200,
+      209
+    ],
+    "variance": 10479.89
+  },
+  "Diamond Regal Stairs": {
+    "avg": [
+      189,
+      91,
+      124
+    ],
+    "variance": 21368.77
+  },
+  "Diner Background": {
+    "avg": [
+      157,
+      144,
+      152
+    ],
+    "variance": 27079.44
+  },
+  "Dinosaur Wallpaper": {
+    "avg": [
+      143,
+      196,
+      141
+    ],
+    "variance": 3962.68
+  },
+  "Door": {
+    "avg": [
+      149,
+      104,
+      62
+    ],
+    "variance": 979.98
+  },
+  "Dragon Decorations": {
+    "avg": [
+      185,
+      104,
+      45
+    ],
+    "variance": 11619.08
+  },
+  "Dragon Fruit Block": {
+    "avg": [
+      199,
+      77,
+      71
+    ],
+    "variance": 7598.41
+  },
+  "Dragon Glass": {
+    "avg": [
+      144,
+      74,
+      89
+    ],
+    "variance": 8819.24
+  },
+  "Dragon Scales": {
+    "avg": [
+      18,
+      97,
+      85
+    ],
+    "variance": 5150.53
+  },
+  "Dwarven Background": {
+    "avg": [
+      61,
+      61,
+      61
+    ],
+    "variance": 684.19
+  },
+  "Egg Wallpaper": {
+    "avg": [
+      218,
+      218,
+      209
+    ],
+    "variance": 2178.54
+  },
+  "EQ Platform": {
+    "avg": [
+      94,
+      92,
+      78
+    ],
+    "variance": 27916.18
+  },
+  "Evil Brick Background": {
+    "avg": [
+      73,
+      26,
+      24
+    ],
+    "variance": 4624.47
+  },
+  "Evil Bricks": {
+    "avg": [
+      99,
+      59,
+      56
+    ],
+    "variance": 4408.39
+  },
+  "Field Grass": {
+    "avg": [
+      83,
+      159,
+      12
+    ],
+    "variance": 15.65
+  },
+  "Fiesta Block": {
+    "avg": [
+      121,
+      123,
+      115
+    ],
+    "variance": 21082.12
+  },
+  "Fiesta Wallpaper": {
+    "avg": [
+      46,
+      47,
+      43
+    ],
+    "variance": 3063.31
+  },
+  "Fireplace": {
+    "avg": [
+      71,
+      41,
+      26
+    ],
+    "variance": 2119.25
+  },
+  "Flowery Wallpaper": {
+    "avg": [
+      233,
+      227,
+      234
+    ],
+    "variance": 534.02
+  },
+  "Fresh Kiwi Block": {
+    "avg": [
+      95,
+      168,
+      78
+    ],
+    "variance": 5331.53
+  },
+  "Fresh Papaya Block": {
+    "avg": [
+      208,
+      110,
+      43
+    ],
+    "variance": 3315.04
+  },
+  "Fresh Pineapple Block": {
+    "avg": [
+      238,
+      207,
+      55
+    ],
+    "variance": 4705.35
+  },
+  "Fresh Watermelon Block": {
+    "avg": [
+      196,
+      110,
+      81
+    ],
+    "variance": 12045.78
+  },
+  "Funhouse Mirror": {
+    "avg": [
+      191,
+      216,
+      242
+    ],
+    "variance": 7736.04
+  },
+  "Fuse Box": {
+    "avg": [
+      139,
+      129,
+      108
+    ],
+    "variance": 7794.62
+  },
+  "Garuda Feathers Background": {
+    "avg": [
+      112,
+      64,
+      36
+    ],
+    "variance": 1118.09
+  },
+  "Garuda Feathers Block": {
+    "avg": [
+      186,
+      148,
+      86
+    ],
+    "variance": 2913.33
+  },
+  "Ghoulish Block": {
+    "avg": [
+      154,
+      60,
+      159
+    ],
+    "variance": 2825.71
+  },
+  "Gift Wrapped Wallpaper": {
+    "avg": [
+      119,
+      85,
+      35
+    ],
+    "variance": 14396.52
+  },
+  "Gilt Inlaid Ceiling": {
+    "avg": [
+      237,
+      197,
+      165
+    ],
+    "variance": 4995.62
+  },
+  "Gingerbread Door": {
+    "avg": [
+      206,
+      183,
+      124
+    ],
+    "variance": 8079.7
+  },
+  "Gingerbread House": {
+    "avg": [
+      192,
+      170,
+      121
+    ],
+    "variance": 11183.71
+  },
+  "Glass Pane": {
+    "avg": [
+      160,
+      224,
+      240
+    ],
+    "variance": 2537.42
+  },
+  "Glowy Block": {
+    "avg": [
+      47,
+      145,
+      161
+    ],
+    "variance": 21115.55
+  },
+  "Googly-Woogly Glooberhellifreakilisticexpialigrossness Verdant Eyed Wall": {
+    "avg": [
+      109,
+      172,
+      96
+    ],
+    "variance": 11332.73
+  },
+  "Granite Block - Blue": {
+    "avg": [
+      70,
+      95,
+      114
+    ],
+    "variance": 2497.75
+  },
+  "Granite Block - Green": {
+    "avg": [
+      75,
+      99,
+      64
+    ],
+    "variance": 2164.36
+  },
+  "Granite Block - Red": {
+    "avg": [
+      160,
+      94,
+      68
+    ],
+    "variance": 2734.01
+  },
+  "Granite Block": {
+    "avg": [
+      101,
+      100,
+      90
+    ],
+    "variance": 4425.65
+  },
+  "Green Curtains": {
+    "avg": [
+      49,
+      144,
+      77
+    ],
+    "variance": 1124.69
+  },
+  "Green Wallpaper": {
+    "avg": [
+      83,
+      159,
+      12
+    ],
+    "variance": 105.08
+  },
+  "Greezak Hive Floor": {
+    "avg": [
+      115,
+      118,
+      77
+    ],
+    "variance": 5396.07
+  },
+  "Greezak Hive Wall": {
+    "avg": [
+      54,
+      52,
+      66
+    ],
+    "variance": 3632.53
+  },
+  "Grey Wallpaper": {
+    "avg": [
+      178,
+      178,
+      178
+    ],
+    "variance": 125.06
+  },
+  "Grimstone Background": {
+    "avg": [
+      33,
+      48,
+      35
+    ],
+    "variance": 1403.1
+  },
+  "Groovy Green Dancefloor": {
+    "avg": [
+      55,
+      169,
+      25
+    ],
+    "variance": 6915.83
+  },
+  "Groovy Wallpaper": {
+    "avg": [
+      119,
+      191,
+      195
+    ],
+    "variance": 3515.33
+  },
+  "Happy Block": {
+    "avg": [
+      229,
+      158,
+      30
+    ],
+    "variance": 9253.27
+  },
+  "Haunted Darkness": {
+    "avg": [
+      0,
+      7,
+      32
+    ],
+    "variance": 94.79
+  },
+  "Haunted Door": {
+    "avg": [
+      13,
+      26,
+      59
+    ],
+    "variance": 1973.3
+  },
+  "Haunted Window": {
+    "avg": [
+      1,
+      6,
+      22
+    ],
+    "variance": 712.28
+  },
+  "Heart Wallpaper": {
+    "avg": [
+      250,
+      198,
+      241
+    ],
+    "variance": 2316.14
+  },
+  "Hero Portrait - Buddy": {
+    "avg": [
+      159,
+      155,
+      80
+    ],
+    "variance": 19496.55
+  },
+  "Hidden Door": {
+    "avg": [
+      96,
+      91,
+      59
+    ],
+    "variance": 7059.34
+  },
+  "High Tech Block": {
+    "avg": [
+      229,
+      229,
+      229
+    ],
+    "variance": 785.81
+  },
+  "High Tech Wall": {
+    "avg": [
+      176,
+      176,
+      176
+    ],
+    "variance": 871.83
+  },
+  "Hospital Door": {
+    "avg": [
+      166,
+      165,
+      144
+    ],
+    "variance": 6837.57
+  },
+  "Hospital Wall": {
+    "avg": [
+      233,
+      228,
+      183
+    ],
+    "variance": 0.0
+  },
+  "Hospital Window": {
+    "avg": [
+      146,
+      181,
+      196
+    ],
+    "variance": 4624.35
+  },
+  "Hot Pink Dancefloor": {
+    "avg": [
+      182,
+      30,
+      169
+    ],
+    "variance": 12926.34
+  },
+  "Immortal Dirt": {
+    "avg": [
+      171,
+      191,
+      199
+    ],
+    "variance": 5805.38
+  },
+  "Infected Door": {
+    "avg": [
+      90,
+      142,
+      77
+    ],
+    "variance": 3121.77
+  },
+  "Insect Glue Wallpaper": {
+    "avg": [
+      199,
+      161,
+      51
+    ],
+    "variance": 13601.66
+  },
+  "Ion Conduit": {
+    "avg": [
+      125,
+      171,
+      171
+    ],
+    "variance": 1318.19
+  },
+  "Jade Brick Background": {
+    "avg": [
+      35,
+      133,
+      117
+    ],
+    "variance": 3492.92
+  },
+  "Jigsaw Wallpaper": {
+    "avg": [
+      123,
+      151,
+      141
+    ],
+    "variance": 10391.42
+  },
+  "Kaleidoscopic Wallpaper": {
+    "avg": [
+      145,
+      145,
+      145
+    ],
+    "variance": 22065.12
+  },
+  "Kiwi Block": {
+    "avg": [
+      179,
+      118,
+      84
+    ],
+    "variance": 5523.77
+  },
+  "Kranken's Galactic Block": {
+    "avg": [
+      248,
+      248,
+      248
+    ],
+    "variance": 0.0
+  },
+  "Leaf Block": {
+    "avg": [
+      51,
+      159,
+      62
+    ],
+    "variance": 4003.39
+  },
+  "Light Box - Green": {
+    "avg": [
+      84,
+      224,
+      138
+    ],
+    "variance": 10516.82
+  },
+  "Light Box - Pink": {
+    "avg": [
+      207,
+      115,
+      218
+    ],
+    "variance": 8238.31
+  },
+  "Light Box - Yellow": {
+    "avg": [
+      211,
+      219,
+      131
+    ],
+    "variance": 11242.37
+  },
+  "Loaded Bookshelf": {
+    "avg": [
+      95,
+      65,
+      55
+    ],
+    "variance": 3746.5
+  },
+  "Locked Adventure Door": {
+    "avg": [
+      204,
+      182,
+      143
+    ],
+    "variance": 4642.11
+  },
+  "Log Cabin Door": {
+    "avg": [
+      137,
+      101,
+      54
+    ],
+    "variance": 1697.65
+  },
+  "Lucky Clover Background": {
+    "avg": [
+      142,
+      157,
+      54
+    ],
+    "variance": 18326.21
+  },
+  "Magic Bacon Wallpaper": {
+    "avg": [
+      231,
+      186,
+      202
+    ],
+    "variance": 8767.13
+  },
+  "Magic Prism Background": {
+    "avg": [
+      29,
+      73,
+      137
+    ],
+    "variance": 11630.27
+  },
+  "Manor House Door": {
+    "avg": [
+      112,
+      64,
+      57
+    ],
+    "variance": 8191.68
+  },
+  "Manor House Red Striped Wallpaper": {
+    "avg": [
+      170,
+      33,
+      45
+    ],
+    "variance": 872.5
+  },
+  "Marble Block": {
+    "avg": [
+      165,
+      175,
+      176
+    ],
+    "variance": 4375.84
+  },
+  "Mary's Mirror": {
+    "avg": [
+      78,
+      181,
+      184
+    ],
+    "variance": 21498.24
+  },
+  "Master Chef's Oven": {
+    "avg": [
+      176,
+      139,
+      170
+    ],
+    "variance": 13036.17
+  },
+  "Master Peng Stonework": {
+    "avg": [
+      73,
+      95,
+      109
+    ],
+    "variance": 6047.23
+  },
+  "Mega Rock Speaker": {
+    "avg": [
+      18,
+      18,
+      18
+    ],
+    "variance": 533.82
+  },
+  "Moon Palace Door": {
+    "avg": [
+      195,
+      164,
+      125
+    ],
+    "variance": 8567.79
+  },
+  "Mother of Pearl": {
+    "avg": [
+      241,
+      207,
+      246
+    ],
+    "variance": 1170.4
+  },
+  "Movie Screen": {
+    "avg": [
+      255,
+      255,
+      255
+    ],
+    "variance": 0.0
+  },
+  "Mutated Bones": {
+    "avg": [
+      59,
+      55,
+      52
+    ],
+    "variance": 5487.69
+  },
+  "Mystery Door": {
+    "avg": [
+      122,
+      110,
+      83
+    ],
+    "variance": 9852.87
+  },
+  "Neon Circuit Block": {
+    "avg": [
+      124,
+      83,
+      127
+    ],
+    "variance": 17790.06
+  },
+  "Neon Party House": {
+    "avg": [
+      189,
+      84,
+      208
+    ],
+    "variance": 12731.68
+  },
+  "Neon Party Machine Background": {
+    "avg": [
+      82,
+      115,
+      88
+    ],
+    "variance": 27246.93
+  },
+  "Nobleman's House Door": {
+    "avg": [
+      91,
+      74,
+      56
+    ],
+    "variance": 2361.8
+  },
+  "Orange Wallpaper": {
+    "avg": [
+      188,
+      98,
+      0
+    ],
+    "variance": 87.99
+  },
+  "Painting_ Dink Duck": {
+    "avg": [
+      122,
+      126,
+      94
+    ],
+    "variance": 10299.05
+  },
+  "Painting_ Yerfdog": {
+    "avg": [
+      160,
+      187,
+      193
+    ],
+    "variance": 11980.19
+  },
+  "Papaya Block": {
+    "avg": [
+      184,
+      180,
+      42
+    ],
+    "variance": 3654.19
+  },
+  "Paper Dividing Wall": {
+    "avg": [
+      201,
+      161,
+      170
+    ],
+    "variance": 13967.76
+  },
+  "Paper Wall": {
+    "avg": [
+      206,
+      190,
+      189
+    ],
+    "variance": 5795.52
+  },
+  "Password Door": {
+    "avg": [
+      135,
+      185,
+      195
+    ],
+    "variance": 7619.28
+  },
+  "Pastel Aqua Wallpaper": {
+    "avg": [
+      128,
+      232,
+      216
+    ],
+    "variance": 432.74
+  },
+  "Pastel Blue Wallpaper": {
+    "avg": [
+      178,
+      202,
+      241
+    ],
+    "variance": 142.29
+  },
+  "Pastel Bricks": {
+    "avg": [
+      212,
+      199,
+      203
+    ],
+    "variance": 4890.75
+  },
+  "Pastel Bunny Block": {
+    "avg": [
+      236,
+      181,
+      220
+    ],
+    "variance": 3099.79
+  },
+  "Pastel Checkered Wallpaper": {
+    "avg": [
+      212,
+      211,
+      197
+    ],
+    "variance": 4416.04
+  },
+  "Pastel Green Wallpaper": {
+    "avg": [
+      148,
+      228,
+      115
+    ],
+    "variance": 901.44
+  },
+  "Pastel Mondrian Block": {
+    "avg": [
+      210,
+      180,
+      204
+    ],
+    "variance": 6793.7
+  },
+  "Pastel Orange Wallpaper": {
+    "avg": [
+      233,
+      188,
+      133
+    ],
+    "variance": 522.82
+  },
+  "Pastel Pink Wallpaper": {
+    "avg": [
+      240,
+      176,
+      222
+    ],
+    "variance": 131.35
+  },
+  "Pastel Purple Wallpaper": {
+    "avg": [
+      218,
+      169,
+      240
+    ],
+    "variance": 163.24
+  },
+  "Pastel Yellow Wallpaper": {
+    "avg": [
+      228,
+      220,
+      106
+    ],
+    "variance": 695.86
+  },
+  "Patchwork Quilt": {
+    "avg": [
+      204,
+      164,
+      157
+    ],
+    "variance": 7638.65
+  },
+  "Pearl Wallpaper": {
+    "avg": [
+      226,
+      184,
+      228
+    ],
+    "variance": 2094.52
+  },
+  "Pebbles Background": {
+    "avg": [
+      74,
+      64,
+      65
+    ],
+    "variance": 2135.05
+  },
+  "Pebbles Block": {
+    "avg": [
+      122,
+      125,
+      90
+    ],
+    "variance": 5635.93
+  },
+  "Pegasus Block BG": {
+    "avg": [
+      128,
+      141,
+      167
+    ],
+    "variance": 4265.97
+  },
+  "Pegasus Block": {
+    "avg": [
+      209,
+      215,
+      226
+    ],
+    "variance": 2814.9
+  },
+  "Piano Platform": {
+    "avg": [
+      127,
+      127,
+      127
+    ],
+    "variance": 27789.89
+  },
+  "Pie Crust Wallpaper": {
+    "avg": [
+      193,
+      112,
+      88
+    ],
+    "variance": 16429.82
+  },
+  "Pineapple Door": {
+    "avg": [
+      174,
+      153,
+      56
+    ],
+    "variance": 4455.49
+  },
+  "Pineapple Wallpaper": {
+    "avg": [
+      193,
+      180,
+      32
+    ],
+    "variance": 8221.94
+  },
+  "Porthole": {
+    "avg": [
+      177,
+      201,
+      206
+    ],
+    "variance": 2668.73
+  },
+  "Pueblock Door": {
+    "avg": [
+      83,
+      87,
+      97
+    ],
+    "variance": 11537.43
+  },
+  "Pueblock Wallpaper": {
+    "avg": [
+      0,
+      121,
+      187
+    ],
+    "variance": 115.75
+  },
+  "Pueblock Window": {
+    "avg": [
+      30,
+      92,
+      129
+    ],
+    "variance": 8479.3
+  },
+  "Pueblock": {
+    "avg": [
+      0,
+      150,
+      218
+    ],
+    "variance": 32.25
+  },
+  "Purple Wallpaper": {
+    "avg": [
+      175,
+      82,
+      223
+    ],
+    "variance": 96.21
+  },
+  "Puzzle Brick": {
+    "avg": [
+      110,
+      153,
+      146
+    ],
+    "variance": 3500.9
+  },
+  "Rainbow Serpent": {
+    "avg": [
+      86,
+      77,
+      66
+    ],
+    "variance": 13843.0
+  },
+  "Rave Hall Wall": {
+    "avg": [
+      132,
+      109,
+      73
+    ],
+    "variance": 7991.0
+  },
+  "Rave Haze Light": {
+    "avg": [
+      110,
+      72,
+      89
+    ],
+    "variance": 27021.31
+  },
+  "Raving Red Dancefloor": {
+    "avg": [
+      182,
+      30,
+      58
+    ],
+    "variance": 7035.27
+  },
+  "Red Bricks": {
+    "avg": [
+      181,
+      71,
+      61
+    ],
+    "variance": 4387.5
+  },
+  "Red Coin Wallpaper": {
+    "avg": [
+      198,
+      73,
+      35
+    ],
+    "variance": 3036.97
+  },
+  "Red Royal Wallpaper": {
+    "avg": [
+      109,
+      55,
+      33
+    ],
+    "variance": 4116.81
+  },
+  "Red Wallpaper": {
+    "avg": [
+      218,
+      43,
+      35
+    ],
+    "variance": 96.79
+  },
+  "Red Wood Wall": {
+    "avg": [
+      98,
+      14,
+      14
+    ],
+    "variance": 638.44
+  },
+  "Regal Stairs": {
+    "avg": [
+      146,
+      71,
+      67
+    ],
+    "variance": 7023.88
+  },
+  "Retro Pattern Background": {
+    "avg": [
+      32,
+      41,
+      89
+    ],
+    "variance": 2510.78
+  },
+  "Retro Pattern Block": {
+    "avg": [
+      77,
+      93,
+      158
+    ],
+    "variance": 11012.43
+  },
+  "Rice Crop Block": {
+    "avg": [
+      144,
+      148,
+      61
+    ],
+    "variance": 11473.76
+  },
+  "Rice Crop Wallpaper": {
+    "avg": [
+      120,
+      99,
+      64
+    ],
+    "variance": 11522.5
+  },
+  "Rickety Door": {
+    "avg": [
+      70,
+      77,
+      53
+    ],
+    "variance": 946.28
+  },
+  "Rickety Wallpaper": {
+    "avg": [
+      49,
+      54,
+      40
+    ],
+    "variance": 81.09
+  },
+  "Rickety Window": {
+    "avg": [
+      40,
+      47,
+      41
+    ],
+    "variance": 637.07
+  },
+  "Robot Lord Machine Wallpaper": {
+    "avg": [
+      92,
+      68,
+      92
+    ],
+    "variance": 10911.54
+  },
+  "Rock N' Roll Wallpaper": {
+    "avg": [
+      137,
+      53,
+      15
+    ],
+    "variance": 17021.17
+  },
+  "Royal Carpet": {
+    "avg": [
+      167,
+      73,
+      66
+    ],
+    "variance": 9033.61
+  },
+  "Sacred Scarf Block": {
+    "avg": [
+      233,
+      40,
+      52
+    ],
+    "variance": 5632.86
+  },
+  "Saloon Doors": {
+    "avg": [
+      155,
+      85,
+      21
+    ],
+    "variance": 6284.16
+  },
+  "Sandstone Wall": {
+    "avg": [
+      183,
+      175,
+      110
+    ],
+    "variance": 178.85
+  },
+  "Sheet Music_ Bass Note": {
+    "avg": [
+      201,
+      219,
+      189
+    ],
+    "variance": 19221.29
+  },
+  "Sheet Music_ Blank": {
+    "avg": [
+      249,
+      249,
+      249
+    ],
+    "variance": 882.94
+  },
+  "Sheet Music_ Drums": {
+    "avg": [
+      207,
+      168,
+      127
+    ],
+    "variance": 22244.77
+  },
+  "Sheet Music_ Electric Guitar": {
+    "avg": [
+      225,
+      205,
+      186
+    ],
+    "variance": 14421.56
+  },
+  "Sheet Music_ Flat Bass": {
+    "avg": [
+      191,
+      212,
+      177
+    ],
+    "variance": 20947.59
+  },
+  "Sheet Music_ Flat Electric Guitar": {
+    "avg": [
+      221,
+      198,
+      175
+    ],
+    "variance": 14588.2
+  },
+  "Sheet Music_ Flat Flute": {
+    "avg": [
+      235,
+      223,
+      200
+    ],
+    "variance": 9463.29
+  },
+  "Sheet Music_ Flat Lyre": {
+    "avg": [
+      229,
+      199,
+      168
+    ],
+    "variance": 14803.87
+  },
+  "Sheet Music_ Flat Mexican Trumpet": {
+    "avg": [
+      238,
+      228,
+      219
+    ],
+    "variance": 7115.56
+  },
+  "Sheet Music_ Flat Piano": {
+    "avg": [
+      176,
+      176,
+      176
+    ],
+    "variance": 35027.27
+  },
+  "Sheet Music_ Flat Sax": {
+    "avg": [
+      213,
+      207,
+      176
+    ],
+    "variance": 17610.68
+  },
+  "Sheet Music_ Flat Spanish Guitar": {
+    "avg": [
+      228,
+      206,
+      183
+    ],
+    "variance": 11998.73
+  },
+  "Sheet Music_ Flat Violin": {
+    "avg": [
+      219,
+      195,
+      169
+    ],
+    "variance": 12887.15
+  },
+  "Sheet Music_ Flute Note": {
+    "avg": [
+      240,
+      230,
+      212
+    ],
+    "variance": 7681.15
+  },
+  "Sheet Music_ Lyre Note": {
+    "avg": [
+      231,
+      205,
+      178
+    ],
+    "variance": 14926.34
+  },
+  "Sheet Music_ Mexican Trumpet": {
+    "avg": [
+      241,
+      235,
+      229
+    ],
+    "variance": 5511.03
+  },
+  "Sheet Music_ Piano Note": {
+    "avg": [
+      189,
+      189,
+      189
+    ],
+    "variance": 31975.63
+  },
+  "Sheet Music_ Repeat Begin": {
+    "avg": [
+      210,
+      210,
+      210
+    ],
+    "variance": 18784.83
+  },
+  "Sheet Music_ Repeat End": {
+    "avg": [
+      210,
+      210,
+      210
+    ],
+    "variance": 18784.83
+  },
+  "Sheet Music_ Sax Note": {
+    "avg": [
+      220,
+      214,
+      189
+    ],
+    "variance": 16181.43
+  },
+  "Sheet Music_ Sharp Bass": {
+    "avg": [
+      185,
+      208,
+      170
+    ],
+    "variance": 21503.13
+  },
+  "Sheet Music_ Sharp Electric Guitar": {
+    "avg": [
+      219,
+      194,
+      170
+    ],
+    "variance": 14526.06
+  },
+  "Sheet Music_ Sharp Flute": {
+    "avg": [
+      232,
+      219,
+      194
+    ],
+    "variance": 10166.64
+  },
+  "Sheet Music_ Sharp Lyre": {
+    "avg": [
+      227,
+      195,
+      162
+    ],
+    "variance": 15165.47
+  },
+  "Sheet Music_ Sharp Mexican Trumpet": {
+    "avg": [
+      236,
+      224,
+      214
+    ],
+    "variance": 7780.47
+  },
+  "Sheet Music_ Sharp Piano": {
+    "avg": [
+      169,
+      169,
+      169
+    ],
+    "variance": 36070.32
+  },
+  "Sheet Music_ Sharp Sax": {
+    "avg": [
+      209,
+      202,
+      169
+    ],
+    "variance": 18063.19
+  },
+  "Sheet Music_ Sharp Spanish Guitar": {
+    "avg": [
+      226,
+      202,
+      177
+    ],
+    "variance": 12089.23
+  },
+  "Sheet Music_ Sharp Violin": {
+    "avg": [
+      217,
+      192,
+      166
+    ],
+    "variance": 12714.22
+  },
+  "Sheet Music_ Spanish Guitar Note": {
+    "avg": [
+      232,
+      213,
+      193
+    ],
+    "variance": 11538.97
+  },
+  "Sheet Music_ Spooky": {
+    "avg": [
+      206,
+      186,
+      186
+    ],
+    "variance": 23137.09
+  },
+  "Sheet Music_ Violin Note": {
+    "avg": [
+      222,
+      202,
+      179
+    ],
+    "variance": 12917.7
+  },
+  "Sheet Music_ Winterfest": {
+    "avg": [
+      216,
+      196,
+      167
+    ],
+    "variance": 19848.17
+  },
+  "Skull Wallpaper": {
+    "avg": [
+      55,
+      52,
+      49
+    ],
+    "variance": 4415.57
+  },
+  "Snowflake Block": {
+    "avg": [
+      51,
+      189,
+      215
+    ],
+    "variance": 14682.25
+  },
+  "Solar Panel": {
+    "avg": [
+      61,
+      99,
+      181
+    ],
+    "variance": 2440.26
+  },
+  "Spooky Window": {
+    "avg": [
+      44,
+      50,
+      40
+    ],
+    "variance": 499.21
+  },
+  "Spring Background": {
+    "avg": [
+      191,
+      83,
+      124
+    ],
+    "variance": 5690.43
+  },
+  "Spring Block": {
+    "avg": [
+      235,
+      154,
+      181
+    ],
+    "variance": 6650.47
+  },
+  "St Patrick's Celebration Wallpaper Green": {
+    "avg": [
+      84,
+      167,
+      104
+    ],
+    "variance": 10726.86
+  },
+  "St Patrick's Celebration Wallpaper White": {
+    "avg": [
+      223,
+      242,
+      223
+    ],
+    "variance": 10002.94
+  },
+  "Stable Background": {
+    "avg": [
+      54,
+      35,
+      11
+    ],
+    "variance": 153.43
+  },
+  "Stained Glass Pineapple": {
+    "avg": [
+      152,
+      142,
+      76
+    ],
+    "variance": 23274.54
+  },
+  "Stained Glass": {
+    "avg": [
+      138,
+      145,
+      137
+    ],
+    "variance": 24030.9
+  },
+  "Starship Airlock": {
+    "avg": [
+      124,
+      133,
+      127
+    ],
+    "variance": 11167.93
+  },
+  "Starship Console Panel": {
+    "avg": [
+      70,
+      70,
+      66
+    ],
+    "variance": 9067.79
+  },
+  "Starship Floor Tile": {
+    "avg": [
+      91,
+      88,
+      86
+    ],
+    "variance": 1656.36
+  },
+  "Starship Light Wall": {
+    "avg": [
+      37,
+      53,
+      52
+    ],
+    "variance": 1247.79
+  },
+  "Starship Porthole": {
+    "avg": [
+      113,
+      149,
+      155
+    ],
+    "variance": 20633.85
+  },
+  "Starship Wall": {
+    "avg": [
+      40,
+      46,
+      42
+    ],
+    "variance": 61.74
+  },
+  "Statue Mouth": {
+    "avg": [
+      172,
+      159,
+      131
+    ],
+    "variance": 12561.47
+  },
+  "Statue": {
+    "avg": [
+      168,
+      154,
+      125
+    ],
+    "variance": 11115.57
+  },
+  "Storm Drain Cover": {
+    "avg": [
+      91,
+      96,
+      94
+    ],
+    "variance": 10243.98
+  },
+  "Stripey Wallpaper": {
+    "avg": [
+      207,
+      224,
+      211
+    ],
+    "variance": 654.53
+  },
+  "Subway Stairs": {
+    "avg": [
+      162,
+      162,
+      162
+    ],
+    "variance": 3084.19
+  },
+  "Subway Wall": {
+    "avg": [
+      122,
+      103,
+      85
+    ],
+    "variance": 6626.65
+  },
+  "Summer Background": {
+    "avg": [
+      21,
+      77,
+      73
+    ],
+    "variance": 1363.21
+  },
+  "Summer Block": {
+    "avg": [
+      55,
+      137,
+      78
+    ],
+    "variance": 4919.77
+  },
+  "Sun Yellow Dancefloor": {
+    "avg": [
+      181,
+      138,
+      30
+    ],
+    "variance": 10329.02
+  },
+  "Super Crate Box": {
+    "avg": [
+      134,
+      79,
+      33
+    ],
+    "variance": 256.89
+  },
+  "Surgical Background": {
+    "avg": [
+      139,
+      154,
+      179
+    ],
+    "variance": 689.08
+  },
+  "Surgical Block": {
+    "avg": [
+      191,
+      200,
+      215
+    ],
+    "variance": 2007.55
+  },
+  "Tapestry": {
+    "avg": [
+      18,
+      122,
+      132
+    ],
+    "variance": 7589.55
+  },
+  "Team Entrance - Build": {
+    "avg": [
+      35,
+      108,
+      161
+    ],
+    "variance": 5866.65
+  },
+  "Team Entrance - Grow": {
+    "avg": [
+      74,
+      147,
+      23
+    ],
+    "variance": 3343.76
+  },
+  "Team Entrance - Punch": {
+    "avg": [
+      193,
+      54,
+      53
+    ],
+    "variance": 8011.02
+  },
+  "The Darkness": {
+    "avg": [
+      0,
+      0,
+      0
+    ],
+    "variance": 0.0
+  },
+  "Tiger Block": {
+    "avg": [
+      165,
+      77,
+      13
+    ],
+    "variance": 14663.66
+  },
+  "Tiled Hospital Wall": {
+    "avg": [
+      115,
+      111,
+      108
+    ],
+    "variance": 3739.82
+  },
+  "Toasted Village Door": {
+    "avg": [
+      94,
+      39,
+      15
+    ],
+    "variance": 6929.26
+  },
+  "Turtle Block": {
+    "avg": [
+      116,
+      162,
+      92
+    ],
+    "variance": 4268.67
+  },
+  "Twisted Mansion Door": {
+    "avg": [
+      83,
+      92,
+      65
+    ],
+    "variance": 1487.76
+  },
+  "Twisted Windows": {
+    "avg": [
+      47,
+      53,
+      42
+    ],
+    "variance": 747.79
+  },
+  "Twisted Wood Planks": {
+    "avg": [
+      50,
+      54,
+      43
+    ],
+    "variance": 4435.36
+  },
+  "U.S.S. Protostar Bulkhead": {
+    "avg": [
+      85,
+      91,
+      91
+    ],
+    "variance": 2890.32
+  },
+  "U.S.S. Protostar Wall Console": {
+    "avg": [
+      60,
+      62,
+      63
+    ],
+    "variance": 3926.09
+  },
+  "U.S.S. Protostar Wall Panel": {
+    "avg": [
+      39,
+      39,
+      39
+    ],
+    "variance": 168.75
+  },
+  "U.S.S. Protostar Wall Vent": {
+    "avg": [
+      38,
+      38,
+      38
+    ],
+    "variance": 549.36
+  },
+  "U.S.S. Protostar Wall": {
+    "avg": [
+      72,
+      72,
+      72
+    ],
+    "variance": 1266.87
+  },
+  "U.S.S. Protostar Window": {
+    "avg": [
+      138,
+      172,
+      181
+    ],
+    "variance": 11217.29
+  },
+  "Unicorn Wallpaper": {
+    "avg": [
+      176,
+      243,
+      246
+    ],
+    "variance": 3425.41
+  },
+  "Used Winterfest Calendar - 2017": {
+    "avg": [
+      124,
+      139,
+      140
+    ],
+    "variance": 24776.89
+  },
+  "Used Winterfest Calendar - 2018": {
+    "avg": [
+      145,
+      115,
+      95
+    ],
+    "variance": 22999.23
+  },
+  "Used Winterfest Calendar - 2019": {
+    "avg": [
+      128,
+      137,
+      86
+    ],
+    "variance": 21231.6
+  },
+  "Used Winterfest Calendar - 2020": {
+    "avg": [
+      192,
+      125,
+      129
+    ],
+    "variance": 16203.22
+  },
+  "Used Winterfest Calendar - 2021": {
+    "avg": [
+      150,
+      110,
+      73
+    ],
+    "variance": 15614.03
+  },
+  "Used Winterfest Calendar - 2022": {
+    "avg": [
+      115,
+      127,
+      89
+    ],
+    "variance": 19563.98
+  },
+  "Used Winterfest Calendar - 2023": {
+    "avg": [
+      154,
+      158,
+      149
+    ],
+    "variance": 20721.12
+  },
+  "Used Winterfest Calendar - 2024": {
+    "avg": [
+      157,
+      129,
+      177
+    ],
+    "variance": 18819.14
+  },
+  "Used Winterfest Calendar - 2025": {
+    "avg": [
+      190,
+      138,
+      159
+    ],
+    "variance": 22012.79
+  },
+  "Villain Portrait - Almighty Seth": {
+    "avg": [
+      196,
+      131,
+      80
+    ],
+    "variance": 9028.12
+  },
+  "Villain Portrait - Big Bertha": {
+    "avg": [
+      125,
+      159,
+      104
+    ],
+    "variance": 10651.67
+  },
+  "Villain Portrait - Bunny Barko": {
+    "avg": [
+      136,
+      141,
+      144
+    ],
+    "variance": 12234.9
+  },
+  "Villain Portrait - Devil Ham": {
+    "avg": [
+      206,
+      94,
+      80
+    ],
+    "variance": 12232.36
+  },
+  "Villain Portrait - Dr. Destructo": {
+    "avg": [
+      108,
+      107,
+      107
+    ],
+    "variance": 11806.96
+  },
+  "Villain Portrait - Dragon Hand": {
+    "avg": [
+      138,
+      112,
+      95
+    ],
+    "variance": 18136.66
+  },
+  "Villain Portrait - El Peligro": {
+    "avg": [
+      150,
+      145,
+      93
+    ],
+    "variance": 20757.39
+  },
+  "Villain Portrait - Generic Thug 17": {
+    "avg": [
+      109,
+      117,
+      126
+    ],
+    "variance": 12328.25
+  },
+  "Villain Portrait - H.R. Geiger": {
+    "avg": [
+      84,
+      75,
+      67
+    ],
+    "variance": 9232.08
+  },
+  "Villain Portrait - Jimmy Snow": {
+    "avg": [
+      154,
+      172,
+      177
+    ],
+    "variance": 17593.81
+  },
+  "Villain Portrait - Kat 5": {
+    "avg": [
+      140,
+      139,
+      141
+    ],
+    "variance": 16564.12
+  },
+  "Villain Portrait - Ms. Terry": {
+    "avg": [
+      58,
+      59,
+      76
+    ],
+    "variance": 11469.12
+  },
+  "Villain Portrait - Paddy O'Malice": {
+    "avg": [
+      53,
+      117,
+      9
+    ],
+    "variance": 8765.22
+  },
+  "Villain Portrait - Pine-Fresh": {
+    "avg": [
+      161,
+      167,
+      54
+    ],
+    "variance": 14443.15
+  },
+  "Villain Portrait - Professor Pummel": {
+    "avg": [
+      124,
+      111,
+      110
+    ],
+    "variance": 19434.45
+  },
+  "Villain Portrait - Shockinator": {
+    "avg": [
+      120,
+      124,
+      89
+    ],
+    "variance": 19637.06
+  },
+  "Villain Portrait - The Firebug": {
+    "avg": [
+      145,
+      110,
+      78
+    ],
+    "variance": 15320.26
+  },
+  "Villain Portrait - The Harvester": {
+    "avg": [
+      109,
+      77,
+      54
+    ],
+    "variance": 10285.74
+  },
+  "Villain Portrait - Z. Everett Koop": {
+    "avg": [
+      121,
+      123,
+      126
+    ],
+    "variance": 14235.43
+  },
+  "Viney Block": {
+    "avg": [
+      55,
+      108,
+      60
+    ],
+    "variance": 6558.34
+  },
+  "Viney Wallpaper": {
+    "avg": [
+      58,
+      129,
+      63
+    ],
+    "variance": 2681.19
+  },
+  "Wall Like An Egyptian": {
+    "avg": [
+      180,
+      172,
+      106
+    ],
+    "variance": 438.05
+  },
+  "Warning Background": {
+    "avg": [
+      88,
+      72,
+      21
+    ],
+    "variance": 7290.26
+  },
+  "Warning Block": {
+    "avg": [
+      131,
+      108,
+      36
+    ],
+    "variance": 16675.25
+  },
+  "Watermelon Block": {
+    "avg": [
+      54,
+      140,
+      73
+    ],
+    "variance": 3859.09
+  },
+  "White Brick Pillar": {
+    "avg": [
+      182,
+      159,
+      135
+    ],
+    "variance": 2323.6
+  },
+  "White Brick Wall": {
+    "avg": [
+      181,
+      155,
+      129
+    ],
+    "variance": 1209.35
+  },
+  "White Chocolate Block": {
+    "avg": [
+      207,
+      171,
+      121
+    ],
+    "variance": 2263.2
+  },
+  "White Wallpaper": {
+    "avg": [
+      245,
+      245,
+      245
+    ],
+    "variance": 99.33
+  },
+  "Wicker Wall": {
+    "avg": [
+      221,
+      184,
+      111
+    ],
+    "variance": 2256.71
+  },
+  "Window Curtains": {
+    "avg": [
+      214,
+      220,
+      234
+    ],
+    "variance": 2108.81
+  },
+  "Window": {
+    "avg": [
+      176,
+      222,
+      233
+    ],
+    "variance": 2178.62
+  },
+  "Winter Background": {
+    "avg": [
+      1,
+      68,
+      119
+    ],
+    "variance": 5916.37
+  },
+  "Winter Block": {
+    "avg": [
+      65,
+      172,
+      215
+    ],
+    "variance": 15612.34
+  },
+  "Winterfest Calendar - 2019": {
+    "avg": [
+      133,
+      126,
+      86
+    ],
+    "variance": 21877.48
+  },
+  "Winterfest Calendar - 2020": {
+    "avg": [
+      185,
+      133,
+      133
+    ],
+    "variance": 17839.79
+  },
+  "Winterfest Calendar - 2021": {
+    "avg": [
+      153,
+      107,
+      73
+    ],
+    "variance": 16519.25
+  },
+  "Winterfest Calendar - 2022": {
+    "avg": [
+      112,
+      131,
+      104
+    ],
+    "variance": 19553.11
+  },
+  "Winterfest Calendar - 2023": {
+    "avg": [
+      176,
+      158,
+      149
+    ],
+    "variance": 19403.84
+  },
+  "Winterfest Calendar - 2024": {
+    "avg": [
+      141,
+      155,
+      181
+    ],
+    "variance": 18106.23
+  },
+  "Winterfest Calendar - 2025": {
+    "avg": [
+      184,
+      129,
+      175
+    ],
+    "variance": 23516.99
+  },
+  "Winterfest Dancefloor": {
+    "avg": [
+      114,
+      112,
+      106
+    ],
+    "variance": 22556.23
+  },
+  "Wooden Pagoda Door": {
+    "avg": [
+      74,
+      40,
+      19
+    ],
+    "variance": 681.43
+  },
+  "Wooden Pagoda Wall": {
+    "avg": [
+      73,
+      22,
+      12
+    ],
+    "variance": 536.08
+  },
+  "Wooden Window": {
+    "avg": [
+      152,
+      174,
+      168
+    ],
+    "variance": 12887.78
+  },
+  "Ye Olde Tavern Door": {
+    "avg": [
+      75,
+      49,
+      45
+    ],
+    "variance": 3963.78
+  },
+  "Yellow Wallpaper": {
+    "avg": [
+      207,
+      191,
+      8
+    ],
+    "variance": 88.39
+  },
+  "Zebra Block": {
+    "avg": [
+      115,
+      115,
+      115
+    ],
+    "variance": 33558.03
+  },
+  "Zen Garden": {
+    "avg": [
+      211,
+      169,
+      129
+    ],
+    "variance": 7315.85
+  },
+  "Fresh Dragon Fruit Block": {
+    "avg": [
+      216,
+      173,
+      176
+    ],
+    "variance": 15864.41
+  },
+  "Castle Sewage Pipe": {
+    "avg": [
+      98,
+      126,
+      111
+    ],
+    "variance": 11729.06
+  },
+  "Diamond-Encrusted Draped Filigreed Jade Block": {
+    "avg": [
+      114,
+      137,
+      120
+    ],
+    "variance": 16741.54
+  },
+  "Draped Filigreed Jade Block": {
+    "avg": [
+      106,
+      134,
+      112
+    ],
+    "variance": 14855.51
+  },
+  "Googly-Eyed Diamond-Encrusted Draped Filigreed Jade Block": {
+    "avg": [
+      100,
+      124,
+      136
+    ],
+    "variance": 16153.33
+  },
+  "Jack-in-the-Box": {
+    "avg": [
+      104,
+      155,
+      126
+    ],
+    "variance": 20750.77
+  },
+  "Kanji Canvas Block": {
+    "avg": [
+      173,
+      154,
+      136
+    ],
+    "variance": 20034.11
+  },
+  "Rink of Love": {
+    "avg": [
+      159,
+      142,
+      180
+    ],
+    "variance": 20506.42
+  },
+  "Takeaway Joint": {
+    "avg": [
+      157,
+      115,
+      114
+    ],
+    "variance": 9879.05
+  },
+  "Tenement Building": {
+    "avg": [
+      93,
+      70,
+      54
+    ],
+    "variance": 4115.35
+  },
+  "Used Wonder Provider": {
+    "avg": [
+      156,
+      106,
+      71
+    ],
+    "variance": 12502.75
+  },
+  "Wonder Provider": {
+    "avg": [
+      148,
+      117,
+      107
+    ],
+    "variance": 11416.91
+  },
+  "Achievement Block": {
+    "avg": [
+      205,
+      155,
+      90
+    ],
+    "variance": 6344.98
+  },
+  "Aqua Block": {
+    "avg": [
+      20,
+      177,
+      145
+    ],
+    "variance": 862.49
+  },
+  "Assassin's Creed_ Renaissance Road": {
+    "avg": [
+      164,
+      135,
+      102
+    ],
+    "variance": 3926.21
+  },
+  "Audio Gear": {
+    "avg": [
+      84,
+      85,
+      77
+    ],
+    "variance": 11403.34
+  },
+  "Biohazard Sign": {
+    "avg": [
+      176,
+      110,
+      29
+    ],
+    "variance": 12812.56
+  },
+  "Black Block": {
+    "avg": [
+      31,
+      31,
+      31
+    ],
+    "variance": 1017.31
+  },
+  "Black Stuff": {
+    "avg": [
+      57,
+      57,
+      57
+    ],
+    "variance": 6341.68
+  },
+  "Blue Block": {
+    "avg": [
+      44,
+      140,
+      247
+    ],
+    "variance": 1823.02
+  },
+  "Blue Glass Block": {
+    "avg": [
+      83,
+      133,
+      249
+    ],
+    "variance": 6412.05
+  },
+  "Blue Stuff": {
+    "avg": [
+      8,
+      141,
+      161
+    ],
+    "variance": 7355.4
+  },
+  "Brown Block": {
+    "avg": [
+      160,
+      103,
+      70
+    ],
+    "variance": 1910.08
+  },
+  "Bulletin Board": {
+    "avg": [
+      198,
+      186,
+      156
+    ],
+    "variance": 8037.72
+  },
+  "Card Block - Club": {
+    "avg": [
+      153,
+      153,
+      153
+    ],
+    "variance": 26435.36
+  },
+  "Card Block - Diamond": {
+    "avg": [
+      223,
+      172,
+      172
+    ],
+    "variance": 18568.15
+  },
+  "Card Block - Heart": {
+    "avg": [
+      219,
+      134,
+      134
+    ],
+    "variance": 22089.78
+  },
+  "Card Block - Spade": {
+    "avg": [
+      149,
+      149,
+      149
+    ],
+    "variance": 27495.81
+  },
+  "Carnival Block": {
+    "avg": [
+      249,
+      104,
+      41
+    ],
+    "variance": 7515.23
+  },
+  "Cloudstone Block": {
+    "avg": [
+      147,
+      194,
+      243
+    ],
+    "variance": 3313.0
+  },
+  "Copper Block": {
+    "avg": [
+      220,
+      115,
+      55
+    ],
+    "variance": 3053.49
+  },
+  "Cosmic Power - Comet Strike": {
+    "avg": [
+      140,
+      77,
+      159
+    ],
+    "variance": 20327.14
+  },
+  "Cosmic Power - Life Harvest": {
+    "avg": [
+      142,
+      88,
+      159
+    ],
+    "variance": 25167.74
+  },
+  "Cosmic Power - Lunar Barrier": {
+    "avg": [
+      121,
+      56,
+      141
+    ],
+    "variance": 17079.72
+  },
+  "Cosmic Power - Nebula Gas": {
+    "avg": [
+      137,
+      77,
+      156
+    ],
+    "variance": 24932.41
+  },
+  "Cosmic Power - Star Burst": {
+    "avg": [
+      140,
+      83,
+      157
+    ],
+    "variance": 24330.93
+  },
+  "Cotton Candy Swirl": {
+    "avg": [
+      202,
+      170,
+      237
+    ],
+    "variance": 5804.57
+  },
+  "Crystallized Ghost": {
+    "avg": [
+      79,
+      184,
+      123
+    ],
+    "variance": 8187.41
+  },
+  "Dangerous Pineapple Block": {
+    "avg": [
+      138,
+      139,
+      61
+    ],
+    "variance": 5045.79
+  },
+  "Dark Aqua Block": {
+    "avg": [
+      0,
+      69,
+      37
+    ],
+    "variance": 862.49
+  },
+  "Dark Blue Block": {
+    "avg": [
+      0,
+      33,
+      139
+    ],
+    "variance": 953.72
+  },
+  "Dark Brown Block": {
+    "avg": [
+      55,
+      31,
+      5
+    ],
+    "variance": 734.36
+  },
+  "Dark Green Block": {
+    "avg": [
+      0,
+      68,
+      0
+    ],
+    "variance": 540.41
+  },
+  "Dark Grey Block": {
+    "avg": [
+      87,
+      87,
+      87
+    ],
+    "variance": 1320.01
+  },
+  "Dark Orange Block": {
+    "avg": [
+      112,
+      58,
+      0
+    ],
+    "variance": 1735.15
+  },
+  "Dark Purple Block": {
+    "avg": [
+      86,
+      0,
+      145
+    ],
+    "variance": 825.95
+  },
+  "Dark Red Block": {
+    "avg": [
+      129,
+      0,
+      2
+    ],
+    "variance": 592.91
+  },
+  "Dark Walnut Block": {
+    "avg": [
+      84,
+      47,
+      32
+    ],
+    "variance": 3815.25
+  },
+  "Dark Yellow Block": {
+    "avg": [
+      125,
+      100,
+      0
+    ],
+    "variance": 2047.28
+  },
+  "Death Metal Block": {
+    "avg": [
+      167,
+      71,
+      80
+    ],
+    "variance": 20407.16
+  },
+  "Deathtrap Wall": {
+    "avg": [
+      174,
+      165,
+      160
+    ],
+    "variance": 2703.72
+  },
+  "Derpy Star Block": {
+    "avg": [
+      174,
+      129,
+      128
+    ],
+    "variance": 20361.33
+  },
+  "Dinosaur in Ice Block": {
+    "avg": [
+      212,
+      222,
+      214
+    ],
+    "variance": 3647.47
+  },
+  "Display Block": {
+    "avg": [
+      99,
+      147,
+      153
+    ],
+    "variance": 11864.53
+  },
+  "Dreamstone Block": {
+    "avg": [
+      245,
+      203,
+      103
+    ],
+    "variance": 7694.93
+  },
+  "Dwarven Wall": {
+    "avg": [
+      93,
+      93,
+      93
+    ],
+    "variance": 4105.13
+  },
+  "Fertile Soil Block": {
+    "avg": [
+      114,
+      62,
+      50
+    ],
+    "variance": 2621.35
+  },
+  "Filigreed Jade Block": {
+    "avg": [
+      80,
+      137,
+      92
+    ],
+    "variance": 11117.46
+  },
+  "Fissure": {
+    "avg": [
+      72,
+      73,
+      37
+    ],
+    "variance": 3482.42
+  },
+  "Fossilized Spirit Block": {
+    "avg": [
+      25,
+      194,
+      149
+    ],
+    "variance": 1794.99
+  },
+  "Frozen Pineapple Block": {
+    "avg": [
+      40,
+      167,
+      196
+    ],
+    "variance": 6984.73
+  },
+  "Funtime Block": {
+    "avg": [
+      247,
+      104,
+      45
+    ],
+    "variance": 8853.01
+  },
+  "Fuzzy Pinata Block - Cyan": {
+    "avg": [
+      75,
+      217,
+      227
+    ],
+    "variance": 1295.51
+  },
+  "Fuzzy Pinata Block - Indigo": {
+    "avg": [
+      86,
+      88,
+      198
+    ],
+    "variance": 659.08
+  },
+  "Fuzzy Pinata Block - Orange": {
+    "avg": [
+      239,
+      157,
+      90
+    ],
+    "variance": 849.48
+  },
+  "Fuzzy Pinata Block - Purple": {
+    "avg": [
+      185,
+      77,
+      229
+    ],
+    "variance": 686.54
+  },
+  "Fuzzy Pinata Block - Yellow": {
+    "avg": [
+      227,
+      215,
+      75
+    ],
+    "variance": 1524.44
+  },
+  "Glass Block": {
+    "avg": [
+      191,
+      236,
+      245
+    ],
+    "variance": 2463.56
+  },
+  "Glitter Block - Gold": {
+    "avg": [
+      237,
+      214,
+      156
+    ],
+    "variance": 4978.56
+  },
+  "Glitter Block - Pink": {
+    "avg": [
+      218,
+      149,
+      218
+    ],
+    "variance": 3152.62
+  },
+  "Glitter Block - Silver": {
+    "avg": [
+      200,
+      200,
+      200
+    ],
+    "variance": 3843.77
+  },
+  "Golden Block": {
+    "avg": [
+      245,
+      219,
+      68
+    ],
+    "variance": 10270.48
+  },
+  "Green Block": {
+    "avg": [
+      95,
+      176,
+      20
+    ],
+    "variance": 641.6
+  },
+  "Green Stuff": {
+    "avg": [
+      30,
+      148,
+      6
+    ],
+    "variance": 5168.82
+  },
+  "Grey Block": {
+    "avg": [
+      195,
+      195,
+      195
+    ],
+    "variance": 1320.01
+  },
+  "Growmoji Lol Block": {
+    "avg": [
+      190,
+      172,
+      135
+    ],
+    "variance": 15993.48
+  },
+  "Growmoji Shades Block": {
+    "avg": [
+      188,
+      167,
+      122
+    ],
+    "variance": 9448.89
+  },
+  "Growmoji Smile Block": {
+    "avg": [
+      212,
+      192,
+      149
+    ],
+    "variance": 10095.3
+  },
+  "Growmoji Tongue Block": {
+    "avg": [
+      209,
+      178,
+      134
+    ],
+    "variance": 9683.54
+  },
+  "Growmoji Wow Block": {
+    "avg": [
+      206,
+      188,
+      148
+    ],
+    "variance": 13306.37
+  },
+  "Haunted Portrait": {
+    "avg": [
+      140,
+      110,
+      71
+    ],
+    "variance": 13319.08
+  },
+  "Heartstone Block": {
+    "avg": [
+      233,
+      87,
+      128
+    ],
+    "variance": 5061.72
+  },
+  "Ice Crust Block": {
+    "avg": [
+      214,
+      230,
+      255
+    ],
+    "variance": 1092.87
+  },
+  "Ice": {
+    "avg": [
+      216,
+      252,
+      253
+    ],
+    "variance": 707.79
+  },
+  "Illuminati Stone": {
+    "avg": [
+      128,
+      124,
+      133
+    ],
+    "variance": 10560.57
+  },
+  "Infected Block": {
+    "avg": [
+      106,
+      169,
+      78
+    ],
+    "variance": 4128.84
+  },
+  "Jack O' Block": {
+    "avg": [
+      150,
+      75,
+      21
+    ],
+    "variance": 8031.6
+  },
+  "Jade Block": {
+    "avg": [
+      30,
+      107,
+      94
+    ],
+    "variance": 1269.24
+  },
+  "Lava Cube": {
+    "avg": [
+      237,
+      82,
+      33
+    ],
+    "variance": 6927.58
+  },
+  "Letter Block - Doozle": {
+    "avg": [
+      173,
+      188,
+      178
+    ],
+    "variance": 1942.51
+  },
+  "Letter Block - Forg": {
+    "avg": [
+      163,
+      198,
+      134
+    ],
+    "variance": 5332.45
+  },
+  "Letter Block - Wump": {
+    "avg": [
+      187,
+      169,
+      179
+    ],
+    "variance": 1992.65
+  },
+  "Letter Block - Zerp": {
+    "avg": [
+      200,
+      180,
+      135
+    ],
+    "variance": 3348.47
+  },
+  "Lit Jack O' Block": {
+    "avg": [
+      191,
+      110,
+      27
+    ],
+    "variance": 6469.94
+  },
+  "Mystery Block": {
+    "avg": [
+      248,
+      201,
+      47
+    ],
+    "variance": 7259.57
+  },
+  "Neon Creator Block": {
+    "avg": [
+      83,
+      85,
+      86
+    ],
+    "variance": 31255.6
+  },
+  "Note Block": {
+    "avg": [
+      189,
+      209,
+      242
+    ],
+    "variance": 2328.19
+  },
+  "Number Block 0": {
+    "avg": [
+      169,
+      197,
+      131
+    ],
+    "variance": 14068.19
+  },
+  "Number Block 1": {
+    "avg": [
+      156,
+      199,
+      161
+    ],
+    "variance": 11295.23
+  },
+  "Number Block 2": {
+    "avg": [
+      171,
+      197,
+      128
+    ],
+    "variance": 14293.47
+  },
+  "Number Block 3": {
+    "avg": [
+      171,
+      197,
+      129
+    ],
+    "variance": 14252.48
+  },
+  "Number Block 4": {
+    "avg": [
+      169,
+      199,
+      135
+    ],
+    "variance": 13962.23
+  },
+  "Number Block 5": {
+    "avg": [
+      171,
+      197,
+      128
+    ],
+    "variance": 14323.19
+  },
+  "Number Block 6": {
+    "avg": [
+      167,
+      199,
+      139
+    ],
+    "variance": 13593.61
+  },
+  "Number Block 7": {
+    "avg": [
+      164,
+      198,
+      146
+    ],
+    "variance": 12867.02
+  },
+  "Number Block 8": {
+    "avg": [
+      174,
+      198,
+      122
+    ],
+    "variance": 14658.04
+  },
+  "Number Block 9": {
+    "avg": [
+      169,
+      199,
+      135
+    ],
+    "variance": 13908.32
+  },
+  "Oil Slick": {
+    "avg": [
+      69,
+      69,
+      69
+    ],
+    "variance": 5259.51
+  },
+  "One-Way Block": {
+    "avg": [
+      150,
+      223,
+      172
+    ],
+    "variance": 14754.02
+  },
+  "Orange Block": {
+    "avg": [
+      207,
+      111,
+      1
+    ],
+    "variance": 1217.15
+  },
+  "Orange Stuff": {
+    "avg": [
+      233,
+      132,
+      24
+    ],
+    "variance": 14578.94
+  },
+  "Party Block": {
+    "avg": [
+      221,
+      126,
+      116
+    ],
+    "variance": 25865.2
+  },
+  "Pastel Aqua Block": {
+    "avg": [
+      164,
+      238,
+      227
+    ],
+    "variance": 2258.7
+  },
+  "Pastel Aqua Flower Block": {
+    "avg": [
+      166,
+      237,
+      223
+    ],
+    "variance": 4610.71
+  },
+  "Pastel Blue Block": {
+    "avg": [
+      199,
+      217,
+      245
+    ],
+    "variance": 896.46
+  },
+  "Pastel Blue Flower Block": {
+    "avg": [
+      201,
+      218,
+      242
+    ],
+    "variance": 2319.88
+  },
+  "Pastel Green Block": {
+    "avg": [
+      182,
+      236,
+      160
+    ],
+    "variance": 4475.05
+  },
+  "Pastel Green Flower Block": {
+    "avg": [
+      181,
+      234,
+      157
+    ],
+    "variance": 7780.85
+  },
+  "Pastel Orange Block": {
+    "avg": [
+      241,
+      213,
+      180
+    ],
+    "variance": 2795.79
+  },
+  "Pastel Orange Flower Block": {
+    "avg": [
+      240,
+      211,
+      176
+    ],
+    "variance": 4698.08
+  },
+  "Pastel Pink Block": {
+    "avg": [
+      245,
+      202,
+      232
+    ],
+    "variance": 880.84
+  },
+  "Pastel Pink Flower Block": {
+    "avg": [
+      245,
+      202,
+      230
+    ],
+    "variance": 2061.59
+  },
+  "Pastel Purple Block": {
+    "avg": [
+      227,
+      191,
+      243
+    ],
+    "variance": 915.21
+  },
+  "Pastel Purple Flower Block": {
+    "avg": [
+      228,
+      192,
+      240
+    ],
+    "variance": 2376.22
+  },
+  "Pastel Yellow Block": {
+    "avg": [
+      238,
+      234,
+      164
+    ],
+    "variance": 3716.09
+  },
+  "Pastel Yellow Flower Block": {
+    "avg": [
+      237,
+      232,
+      159
+    ],
+    "variance": 6016.66
+  },
+  "Pinata Block": {
+    "avg": [
+      161,
+      157,
+      159
+    ],
+    "variance": 14283.87
+  },
+  "Pineapple Block": {
+    "avg": [
+      182,
+      157,
+      57
+    ],
+    "variance": 3309.96
+  },
+  "Polka Dot Block": {
+    "avg": [
+      235,
+      192,
+      208
+    ],
+    "variance": 6044.88
+  },
+  "Posh Portrait": {
+    "avg": [
+      235,
+      189,
+      136
+    ],
+    "variance": 6610.83
+  },
+  "Prince of Persia_ Palace Background": {
+    "avg": [
+      68,
+      35,
+      29
+    ],
+    "variance": 1753.19
+  },
+  "Pumpkin Block": {
+    "avg": [
+      182,
+      91,
+      26
+    ],
+    "variance": 3134.32
+  },
+  "Purple Block": {
+    "avg": [
+      193,
+      86,
+      252
+    ],
+    "variance": 1938.56
+  },
+  "Purple Stuff": {
+    "avg": [
+      212,
+      54,
+      177
+    ],
+    "variance": 11844.49
+  },
+  "Radiation Block": {
+    "avg": [
+      148,
+      143,
+      112
+    ],
+    "variance": 12773.43
+  },
+  "Rainbow Block": {
+    "avg": [
+      157,
+      182,
+      174
+    ],
+    "variance": 20503.65
+  },
+  "Red Block": {
+    "avg": [
+      239,
+      55,
+      46
+    ],
+    "variance": 1346.12
+  },
+  "Red Glass Block": {
+    "avg": [
+      255,
+      174,
+      174
+    ],
+    "variance": 11788.37
+  },
+  "Red Stuff": {
+    "avg": [
+      212,
+      60,
+      68
+    ],
+    "variance": 9836.94
+  },
+  "Roasted Pineapple Block": {
+    "avg": [
+      192,
+      31,
+      19
+    ],
+    "variance": 4267.85
+  },
+  "Rotten Pineapple Block": {
+    "avg": [
+      151,
+      148,
+      60
+    ],
+    "variance": 3960.98
+  },
+  "Rune Carved Stone Pillar": {
+    "avg": [
+      108,
+      149,
+      103
+    ],
+    "variance": 9137.5
+  },
+  "Rune Stone": {
+    "avg": [
+      30,
+      40,
+      41
+    ],
+    "variance": 4419.39
+  },
+  "Salt Block": {
+    "avg": [
+      224,
+      162,
+      133
+    ],
+    "variance": 4556.73
+  },
+  "Sandstone": {
+    "avg": [
+      223,
+      218,
+      174
+    ],
+    "variance": 421.26
+  },
+  "Secret Passage": {
+    "avg": [
+      190,
+      141,
+      87
+    ],
+    "variance": 5347.83
+  },
+  "Shifty Block": {
+    "avg": [
+      213,
+      213,
+      213
+    ],
+    "variance": 946.37
+  },
+  "Shining Block - Purple": {
+    "avg": [
+      146,
+      56,
+      186
+    ],
+    "variance": 671.26
+  },
+  "Shining Block - Red": {
+    "avg": [
+      186,
+      56,
+      63
+    ],
+    "variance": 669.79
+  },
+  "Shining Block - Yellow": {
+    "avg": [
+      213,
+      185,
+      29
+    ],
+    "variance": 852.81
+  },
+  "Slick Blue Block": {
+    "avg": [
+      68,
+      155,
+      247
+    ],
+    "variance": 6528.9
+  },
+  "Slick Green Block": {
+    "avg": [
+      118,
+      188,
+      47
+    ],
+    "variance": 8438.13
+  },
+  "Slick Red Block": {
+    "avg": [
+      239,
+      76,
+      70
+    ],
+    "variance": 7598.56
+  },
+  "Snow Block": {
+    "avg": [
+      180,
+      175,
+      165
+    ],
+    "variance": 19650.07
+  },
+  "Sourloaf Pineapple Block": {
+    "avg": [
+      176,
+      135,
+      94
+    ],
+    "variance": 9800.38
+  },
+  "Starfire Background": {
+    "avg": [
+      242,
+      138,
+      193
+    ],
+    "variance": 11022.12
+  },
+  "Steel Block": {
+    "avg": [
+      179,
+      216,
+      218
+    ],
+    "variance": 2207.52
+  },
+  "Street Sidewalk": {
+    "avg": [
+      178,
+      170,
+      166
+    ],
+    "variance": 4321.41
+  },
+  "Stuffins' Poster": {
+    "avg": [
+      209,
+      139,
+      102
+    ],
+    "variance": 12441.07
+  },
+  "Sugarloaf Pineapple Block": {
+    "avg": [
+      183,
+      162,
+      20
+    ],
+    "variance": 5798.54
+  },
+  "Super Background": {
+    "avg": [
+      98,
+      165,
+      193
+    ],
+    "variance": 17913.55
+  },
+  "Superpower - Alien Egg": {
+    "avg": [
+      108,
+      188,
+      192
+    ],
+    "variance": 23686.67
+  },
+  "Superpower - Atomic Backbreaker": {
+    "avg": [
+      162,
+      91,
+      56
+    ],
+    "variance": 28369.18
+  },
+  "Superpower - Ban Hammer": {
+    "avg": [
+      114,
+      162,
+      166
+    ],
+    "variance": 19512.22
+  },
+  "Superpower - Crush": {
+    "avg": [
+      65,
+      134,
+      50
+    ],
+    "variance": 13719.97
+  },
+  "Superpower - Death Ray": {
+    "avg": [
+      166,
+      101,
+      75
+    ],
+    "variance": 33276.05
+  },
+  "Superpower - Duct Tape": {
+    "avg": [
+      164,
+      171,
+      193
+    ],
+    "variance": 23989.87
+  },
+  "Superpower - Egg Shield": {
+    "avg": [
+      108,
+      203,
+      206
+    ],
+    "variance": 15784.15
+  },
+  "Superpower - Enrage": {
+    "avg": [
+      51,
+      145,
+      47
+    ],
+    "variance": 10191.22
+  },
+  "Superpower - Flame On!": {
+    "avg": [
+      117,
+      57,
+      26
+    ],
+    "variance": 21874.93
+  },
+  "Superpower - Frost Breath": {
+    "avg": [
+      91,
+      159,
+      162
+    ],
+    "variance": 25997.24
+  },
+  "Superpower - Frozen Mirror": {
+    "avg": [
+      87,
+      137,
+      140
+    ],
+    "variance": 26266.3
+  },
+  "Superpower - g-Virus": {
+    "avg": [
+      76,
+      153,
+      44
+    ],
+    "variance": 9722.51
+  },
+  "Superpower - Heat Vision": {
+    "avg": [
+      144,
+      57,
+      23
+    ],
+    "variance": 22022.71
+  },
+  "Superpower - Ice Barrier": {
+    "avg": [
+      109,
+      161,
+      165
+    ],
+    "variance": 19476.05
+  },
+  "Superpower - Ice Shards": {
+    "avg": [
+      75,
+      139,
+      143
+    ],
+    "variance": 24718.63
+  },
+  "Superpower - Incinerate": {
+    "avg": [
+      158,
+      46,
+      0
+    ],
+    "variance": 15300.58
+  },
+  "Superpower - Liquify": {
+    "avg": [
+      143,
+      60,
+      33
+    ],
+    "variance": 23082.4
+  },
+  "Superpower - Lucky Shot": {
+    "avg": [
+      74,
+      179,
+      69
+    ],
+    "variance": 12482.48
+  },
+  "Superpower - Megawatt Pulse": {
+    "avg": [
+      133,
+      144,
+      144
+    ],
+    "variance": 26296.45
+  },
+  "Superpower - Overcharge": {
+    "avg": [
+      139,
+      145,
+      105
+    ],
+    "variance": 28516.26
+  },
+  "Superpower - Overheat": {
+    "avg": [
+      111,
+      43,
+      8
+    ],
+    "variance": 20025.68
+  },
+  "Superpower - Pineapple Spear": {
+    "avg": [
+      142,
+      154,
+      188
+    ],
+    "variance": 22569.11
+  },
+  "Superpower - Puddle": {
+    "avg": [
+      109,
+      173,
+      177
+    ],
+    "variance": 16229.65
+  },
+  "Superpower - Regeneration": {
+    "avg": [
+      62,
+      114,
+      61
+    ],
+    "variance": 24350.8
+  },
+  "Superpower - Resuscitate": {
+    "avg": [
+      150,
+      156,
+      121
+    ],
+    "variance": 29561.83
+  },
+  "Superpower - Shocking Fist": {
+    "avg": [
+      143,
+      153,
+      163
+    ],
+    "variance": 24413.96
+  },
+  "Superpower - Super Speed": {
+    "avg": [
+      111,
+      151,
+      76
+    ],
+    "variance": 24986.36
+  },
+  "Superpower - Super Strength": {
+    "avg": [
+      49,
+      144,
+      45
+    ],
+    "variance": 10015.76
+  },
+  "Superpower - Thunderstorm": {
+    "avg": [
+      167,
+      177,
+      190
+    ],
+    "variance": 21786.59
+  },
+  "Tangram Block": {
+    "avg": [
+      133,
+      133,
+      133
+    ],
+    "variance": 36072.84
+  },
+  "Thanksgiving Frame": {
+    "avg": [
+      118,
+      75,
+      30
+    ],
+    "variance": 9506.96
+  },
+  "Toffee Block": {
+    "avg": [
+      230,
+      188,
+      95
+    ],
+    "variance": 3165.63
+  },
+  "Vortex Block": {
+    "avg": [
+      66,
+      72,
+      99
+    ],
+    "variance": 8160.85
+  },
+  "Whale Block": {
+    "avg": [
+      149,
+      171,
+      182
+    ],
+    "variance": 5002.34
+  },
+  "White Block": {
+    "avg": [
+      237,
+      237,
+      237
+    ],
+    "variance": 1726.13
+  },
+  "White Stuff": {
+    "avg": [
+      191,
+      199,
+      199
+    ],
+    "variance": 5917.21
+  },
+  "Wolfy Block": {
+    "avg": [
+      62,
+      83,
+      63
+    ],
+    "variance": 18338.77
+  },
+  "Wood Block": {
+    "avg": [
+      190,
+      141,
+      87
+    ],
+    "variance": 5347.83
+  },
+  "Wooden Background": {
+    "avg": [
+      138,
+      106,
+      72
+    ],
+    "variance": 652.28
+  },
+  "Xenoid Acid Pool": {
+    "avg": [
+      97,
+      161,
+      49
+    ],
+    "variance": 9012.93
+  },
+  "Yellow Block": {
+    "avg": [
+      227,
+      205,
+      28
+    ],
+    "variance": 2176.06
+  },
+  "Battery Block": {
+    "avg": [
+      163,
+      153,
+      105
+    ],
+    "variance": 20640.58
+  },
+  "DigiVend Machine": {
+    "avg": [
+      106,
+      118,
+      129
+    ],
+    "variance": 8444.71
+  },
+  "Bio-Waste": {
+    "avg": [
+      106,
+      72,
+      51
+    ],
+    "variance": 1778.69
+  },
+  "Space Junk Block": {
+    "avg": [
+      86,
+      87,
+      71
+    ],
+    "variance": 6994.39
+  },
+  "Bouncy Wall": {
+    "avg": [
+      223,
+      128,
+      144
+    ],
+    "variance": 15771.3
+  },
+  "Radical City Lock": {
+    "avg": [
+      135,
+      128,
+      85
+    ],
+    "variance": 16177.78
+  },
+  "Safe Vault": {
+    "avg": [
+      77,
+      73,
+      60
+    ],
+    "variance": 6941.04
+  },
+  "Star Tool Nanoforge": {
+    "avg": [
+      74,
+      101,
+      94
+    ],
+    "variance": 4524.52
+  },
+  "Starship Packing Crate": {
+    "avg": [
+      135,
+      138,
+      136
+    ],
+    "variance": 6499.02
+  },
+  "Up, Up, and Away Block": {
+    "avg": [
+      178,
+      154,
+      122
+    ],
+    "variance": 3370.91
+  },
+  "Nacho Block": {
+    "avg": [
+      221,
+      184,
+      103
+    ],
+    "variance": 6174.71
+  },
+  "Twisted Wooden Block": {
+    "avg": [
+      46,
+      50,
+      37
+    ],
+    "variance": 560.77
+  },
+  "Greenhouse": {
+    "avg": [
+      176,
+      210,
+      209
+    ],
+    "variance": 7946.57
+  },
+  "Starship Turbo Fan": {
+    "avg": [
+      98,
+      113,
+      97
+    ],
+    "variance": 4639.59
+  },
+  "Untrade-a-Box": {
+    "avg": [
+      115,
+      140,
+      171
+    ],
+    "variance": 3420.7
+  },
+  "Takeaway Joint Roof": {
+    "avg": [
+      126,
+      151,
+      119
+    ],
+    "variance": 18588.49
+  },
+  "Angry Unicorn Block": {
+    "avg": [
+      178,
+      73,
+      18
+    ],
+    "variance": 13900.47
+  },
+  "Beat-root Block": {
+    "avg": [
+      125,
+      31,
+      45
+    ],
+    "variance": 2791.73
+  },
+  "Block o' Barf": {
+    "avg": [
+      167,
+      181,
+      36
+    ],
+    "variance": 2310.06
+  },
+  "Blueberry Jelly Block": {
+    "avg": [
+      53,
+      96,
+      208
+    ],
+    "variance": 6362.1
+  },
+  "Cherry Jelly Block": {
+    "avg": [
+      208,
+      61,
+      53
+    ],
+    "variance": 6689.89
+  },
+  "Cranberry Jelly Block": {
+    "avg": [
+      199,
+      46,
+      92
+    ],
+    "variance": 5685.62
+  },
+  "Dice Block": {
+    "avg": [
+      187,
+      200,
+      197
+    ],
+    "variance": 4749.38
+  },
+  "Display Box": {
+    "avg": [
+      178,
+      216,
+      192
+    ],
+    "variance": 11433.95
+  },
+  "Ghost Block": {
+    "avg": [
+      102,
+      189,
+      169
+    ],
+    "variance": 17170.91
+  },
+  "Gingerbread Block": {
+    "avg": [
+      223,
+      196,
+      158
+    ],
+    "variance": 7096.41
+  },
+  "Great Wall of Growtopia": {
+    "avg": [
+      172,
+      143,
+      110
+    ],
+    "variance": 4415.54
+  },
+  "Happy Unicorn Block": {
+    "avg": [
+      236,
+      168,
+      199
+    ],
+    "variance": 8585.56
+  },
+  "Lemon Jelly Block": {
+    "avg": [
+      212,
+      171,
+      57
+    ],
+    "variance": 6264.88
+  },
+  "Lime Jelly Block": {
+    "avg": [
+      51,
+      197,
+      90
+    ],
+    "variance": 6704.96
+  },
+  "Locke's Mystery Box": {
+    "avg": [
+      225,
+      210,
+      184
+    ],
+    "variance": 12025.05
+  },
+  "Mud Puddle": {
+    "avg": [
+      150,
+      82,
+      59
+    ],
+    "variance": 2101.95
+  },
+  "Obsidian": {
+    "avg": [
+      75,
+      75,
+      75
+    ],
+    "variance": 6323.3
+  },
+  "Orange Jelly Block": {
+    "avg": [
+      197,
+      115,
+      51
+    ],
+    "variance": 6531.85
+  },
+  "Primordial Ooze": {
+    "avg": [
+      50,
+      135,
+      80
+    ],
+    "variance": 3288.74
+  },
+  "Quicksand Block": {
+    "avg": [
+      222,
+      172,
+      77
+    ],
+    "variance": 1520.52
+  },
+  "Roshambo Block": {
+    "avg": [
+      197,
+      171,
+      99
+    ],
+    "variance": 9165.66
+  },
+  "Space Rock": {
+    "avg": [
+      141,
+      106,
+      134
+    ],
+    "variance": 6125.84
+  },
+  "Steam Bellows": {
+    "avg": [
+      169,
+      81,
+      56
+    ],
+    "variance": 4248.39
+  },
+  "Steam Riser Bellows": {
+    "avg": [
+      169,
+      81,
+      56
+    ],
+    "variance": 4248.39
+  },
+  "Storage Box Xtreme - Level 1": {
+    "avg": [
+      163,
+      119,
+      83
+    ],
+    "variance": 11706.88
+  },
+  "Storage Box Xtreme - Level 2": {
+    "avg": [
+      129,
+      126,
+      49
+    ],
+    "variance": 11360.5
+  },
+  "Storage Box Xtreme - Level 3": {
+    "avg": [
+      155,
+      98,
+      91
+    ],
+    "variance": 11147.58
+  },
+  "Strawberry Block": {
+    "avg": [
+      182,
+      37,
+      33
+    ],
+    "variance": 4548.66
+  },
+  "Sun Block": {
+    "avg": [
+      137,
+      173,
+      112
+    ],
+    "variance": 24437.24
+  },
+  "White Grape Jelly Block": {
+    "avg": [
+      151,
+      181,
+      92
+    ],
+    "variance": 6630.76
+  },
+  "Bouncy Boxed Boiled Egg": {
+    "avg": [
+      242,
+      219,
+      140
+    ],
+    "variance": 9747.15
+  },
+  "Chemsynth Tank": {
+    "avg": [
+      105,
+      177,
+      196
+    ],
+    "variance": 5224.24
+  },
+  "Bookcase": {
+    "avg": [
+      142,
+      115,
+      69
+    ],
+    "variance": 5278.23
+  },
+  "Castle Moat": {
+    "avg": [
+      34,
+      57,
+      41
+    ],
+    "variance": 1470.49
+  },
+  "Dresser": {
+    "avg": [
+      148,
+      104,
+      62
+    ],
+    "variance": 788.66
+  },
+  "Elephant Block": {
+    "avg": [
+      185,
+      193,
+      197
+    ],
+    "variance": 2996.74
+  },
+  "Mini Blocks": {
+    "avg": [
+      205,
+      205,
+      205
+    ],
+    "variance": 6178.5
+  },
+  "Carrot Block": {
+    "avg": [
+      236,
+      95,
+      15
+    ],
+    "variance": 2541.57
+  },
+  "Brain Block": {
+    "avg": [
+      239,
+      143,
+      157
+    ],
+    "variance": 3767.41
+  },
+  "Black Display Shelf": {
+    "avg": [
+      22,
+      22,
+      22
+    ],
+    "variance": 154.4
+  },
+  "Display Shelf": {
+    "avg": [
+      118,
+      84,
+      54
+    ],
+    "variance": 631.06
+  },
+  "Rave Hall Floor": {
+    "avg": [
+      165,
+      135,
+      120
+    ],
+    "variance": 10841.44
+  },
+  "Refrigerator": {
+    "avg": [
+      203,
+      218,
+      219
+    ],
+    "variance": 1145.96
+  },
+  "Stone Pagoda Base": {
+    "avg": [
+      80,
+      110,
+      122
+    ],
+    "variance": 4345.31
+  },
+  "Altar": {
+    "avg": [
+      157,
+      70,
+      45
+    ],
+    "variance": 3104.01
+  },
+  "Crystallized Brilliance": {
+    "avg": [
+      200,
+      209,
+      198
+    ],
+    "variance": 5975.63
+  },
+  "Crystallized Nature": {
+    "avg": [
+      192,
+      216,
+      223
+    ],
+    "variance": 3763.64
+  },
+  "Crystallized Reality": {
+    "avg": [
+      195,
+      221,
+      239
+    ],
+    "variance": 2398.0
+  },
+  "Crystallized Time": {
+    "avg": [
+      195,
+      218,
+      233
+    ],
+    "variance": 4396.28
+  },
+  "Crystallized Wealth": {
+    "avg": [
+      201,
+      210,
+      226
+    ],
+    "variance": 3963.7
+  },
+  "Frozen DNA Fragment A": {
+    "avg": [
+      202,
+      224,
+      237
+    ],
+    "variance": 2989.49
+  },
+  "Frozen DNA Fragment B": {
+    "avg": [
+      206,
+      223,
+      240
+    ],
+    "variance": 2628.71
+  },
+  "Ice Cube": {
+    "avg": [
+      205,
+      225,
+      241
+    ],
+    "variance": 2579.7
+  },
+  "Innie Block": {
+    "avg": [
+      66,
+      174,
+      211
+    ],
+    "variance": 4043.92
+  },
+  "Love Curtain": {
+    "avg": [
+      232,
+      187,
+      142
+    ],
+    "variance": 7752.44
+  },
+  "Outie Block": {
+    "avg": [
+      59,
+      193,
+      166
+    ],
+    "variance": 4220.38
+  },
+  "Creepy Baby Gate": {
+    "avg": [
+      218,
+      181,
+      120
+    ],
+    "variance": 6383.49
+  },
+  "Aggregate Concrete": {
+    "avg": [
+      154,
+      142,
+      133
+    ],
+    "variance": 3250.99
+  },
+  "Mage's Bookcase": {
+    "avg": [
+      106,
+      78,
+      62
+    ],
+    "variance": 7056.52
+  },
+  "Amber Block": {
+    "avg": [
+      209,
+      109,
+      27
+    ],
+    "variance": 12413.6
+  },
+  "Replicator": {
+    "avg": [
+      122,
+      128,
+      128
+    ],
+    "variance": 10391.02
+  },
+  "Mac n' Cheese Star Block": {
+    "avg": [
+      171,
+      182,
+      159
+    ],
+    "variance": 12208.76
+  },
+  "Lion Block": {
+    "avg": [
+      206,
+      148,
+      37
+    ],
+    "variance": 6968.08
+  },
+  "13th Anniversary Block": {
+    "avg": [
+      125,
+      128,
+      139
+    ],
+    "variance": 7281.52
+  },
+  "Prince of Persia_ Palace Wall": {
+    "avg": [
+      155,
+      146,
+      129
+    ],
+    "variance": 15842.86
+  },
+  "Rayman - Band Land Drum": {
+    "avg": [
+      192,
+      166,
+      139
+    ],
+    "variance": 6922.21
+  },
+  "Sorcerer Stone": {
+    "avg": [
+      115,
+      99,
+      99
+    ],
+    "variance": 2552.98
+  },
+  "Haunted House": {
+    "avg": [
+      57,
+      62,
+      46
+    ],
+    "variance": 1049.52
+  },
+  "Tropical Bar": {
+    "avg": [
+      221,
+      182,
+      87
+    ],
+    "variance": 2535.82
+  },
+  "Heartcastle Gate": {
+    "avg": [
+      170,
+      153,
+      124
+    ],
+    "variance": 9899.76
+  },
+  "Marshmallow": {
+    "avg": [
+      230,
+      230,
+      230
+    ],
+    "variance": 692.14
+  },
+  "Googly-Woogly Glooberhellifreakilisticexpialigrossness Verdant Eye": {
+    "avg": [
+      105,
+      162,
+      88
+    ],
+    "variance": 4733.86
+  },
+  "Space Junk Dirt": {
+    "avg": [
+      55,
+      30,
+      23
+    ],
+    "variance": 5397.44
+  },
+  "Ancient Block": {
+    "avg": [
+      206,
+      186,
+      149
+    ],
+    "variance": 5037.32
+  },
+  "Bountiful Jungle Temple": {
+    "avg": [
+      126,
+      127,
+      94
+    ],
+    "variance": 7214.49
+  },
+  "Bubble Block": {
+    "avg": [
+      20,
+      202,
+      241
+    ],
+    "variance": 3944.02
+  },
+  "Googly-Woogly Glooberhellifreakilisticexpialigrossness Verdant Teeth": {
+    "avg": [
+      106,
+      160,
+      85
+    ],
+    "variance": 6149.02
+  },
+  "Halfling House Roof": {
+    "avg": [
+      123,
+      152,
+      83
+    ],
+    "variance": 9363.08
+  },
+  "Benedict Bouncepad": {
+    "avg": [
+      216,
+      166,
+      108
+    ],
+    "variance": 13153.91
+  },
+  "Crystal Block": {
+    "avg": [
+      149,
+      220,
+      241
+    ],
+    "variance": 5623.58
+  },
+  "Crystalized Star Fragment Block": {
+    "avg": [
+      210,
+      68,
+      185
+    ],
+    "variance": 10863.27
+  },
+  "Mage's Curtains": {
+    "avg": [
+      36,
+      121,
+      207
+    ],
+    "variance": 10479.43
+  },
+  "Onyx Block": {
+    "avg": [
+      60,
+      60,
+      60
+    ],
+    "variance": 5850.39
+  },
+  "Rainbow Crystal Block": {
+    "avg": [
+      134,
+      112,
+      95
+    ],
+    "variance": 26539.51
+  },
+  "Ruby Block": {
+    "avg": [
+      235,
+      79,
+      79
+    ],
+    "variance": 10944.89
+  },
+  "Sapphire Block": {
+    "avg": [
+      27,
+      82,
+      201
+    ],
+    "variance": 9364.6
+  },
+  "Toasted Village Background": {
+    "avg": [
+      82,
+      67,
+      62
+    ],
+    "variance": 14624.68
+  },
+  "Topaz Block": {
+    "avg": [
+      229,
+      157,
+      48
+    ],
+    "variance": 12604.08
+  },
+  "Yellow Diamond": {
+    "avg": [
+      171,
+      163,
+      47
+    ],
+    "variance": 13022.93
+  },
+  "Hospital Curtain": {
+    "avg": [
+      118,
+      212,
+      166
+    ],
+    "variance": 827.64
+  },
+  "Long Yule Log": {
+    "avg": [
+      150,
+      118,
+      98
+    ],
+    "variance": 13705.04
+  },
+  "Mean Wolf Block": {
+    "avg": [
+      130,
+      136,
+      159
+    ],
+    "variance": 8695.83
+  },
+  "S'mores Block": {
+    "avg": [
+      178,
+      139,
+      112
+    ],
+    "variance": 17667.59
+  },
+  "Adventure Barrier": {
+    "avg": [
+      159,
+      141,
+      120
+    ],
+    "variance": 2777.17
+  },
+  "Easter Island Head": {
+    "avg": [
+      113,
+      113,
+      113
+    ],
+    "variance": 3009.51
+  },
+  "Game Block": {
+    "avg": [
+      204,
+      204,
+      204
+    ],
+    "variance": 1379.14
+  },
+  "Creepy Baby Block": {
+    "avg": [
+      212,
+      179,
+      126
+    ],
+    "variance": 10247.73
+  },
+  "Hay": {
+    "avg": [
+      202,
+      162,
+      83
+    ],
+    "variance": 4345.71
+  },
+  "Rice Terrace Block": {
+    "avg": [
+      114,
+      178,
+      138
+    ],
+    "variance": 20264.91
+  },
+  "Bountiful Bamboo Background": {
+    "avg": [
+      63,
+      83,
+      41
+    ],
+    "variance": 2028.22
+  },
+  "Colored Corn": {
+    "avg": [
+      182,
+      117,
+      94
+    ],
+    "variance": 13126.07
+  },
+  "Kitty Block": {
+    "avg": [
+      227,
+      204,
+      178
+    ],
+    "variance": 7060.45
+  },
+  "Marquee Block": {
+    "avg": [
+      212,
+      154,
+      121
+    ],
+    "variance": 16069.61
+  },
+  "Amethyst Block": {
+    "avg": [
+      139,
+      66,
+      144
+    ],
+    "variance": 12435.73
+  },
+  "Assassin's Creed_ Renaissance Topiary": {
+    "avg": [
+      58,
+      94,
+      58
+    ],
+    "variance": 1004.76
+  },
+  "Candy Cane Block": {
+    "avg": [
+      190,
+      125,
+      130
+    ],
+    "variance": 20965.15
+  },
+  "Disgusting Mess Block": {
+    "avg": [
+      183,
+      188,
+      178
+    ],
+    "variance": 4527.0
+  },
+  "Kiddie Pool": {
+    "avg": [
+      141,
+      118,
+      81
+    ],
+    "variance": 16876.81
+  },
+  "Lunar Crater": {
+    "avg": [
+      169,
+      145,
+      181
+    ],
+    "variance": 1994.98
+  },
+  "Moon Block": {
+    "avg": [
+      151,
+      186,
+      174
+    ],
+    "variance": 1981.41
+  },
+  "Opal Block": {
+    "avg": [
+      74,
+      142,
+      169
+    ],
+    "variance": 13907.32
+  },
+  "Crowded Stadium": {
+    "avg": [
+      127,
+      116,
+      115
+    ],
+    "variance": 5519.14
+  },
+  "Lohri Drum": {
+    "avg": [
+      157,
+      115,
+      92
+    ],
+    "variance": 13844.13
+  },
+  "Swiss Cheese Block": {
+    "avg": [
+      228,
+      224,
+      161
+    ],
+    "variance": 1596.13
+  },
+  "Ultra Purple Fragment": {
+    "avg": [
+      71,
+      37,
+      164
+    ],
+    "variance": 15940.54
+  },
+  "World Architect": {
+    "avg": [
+      109,
+      92,
+      76
+    ],
+    "variance": 3015.73
+  },
+  "Ammonite Block": {
+    "avg": [
+      180,
+      158,
+      96
+    ],
+    "variance": 5443.14
+  },
+  "Bountiful Jungle Temple Background": {
+    "avg": [
+      76,
+      80,
+      67
+    ],
+    "variance": 3832.65
+  },
+  "Home Oven": {
+    "avg": [
+      165,
+      206,
+      228
+    ],
+    "variance": 4370.41
+  },
+  "Stove": {
+    "avg": [
+      191,
+      198,
+      202
+    ],
+    "variance": 3109.86
+  },
+  "Surgical Waste": {
+    "avg": [
+      232,
+      151,
+      48
+    ],
+    "variance": 6741.69
+  },
+  "Western Building": {
+    "avg": [
+      154,
+      86,
+      27
+    ],
+    "variance": 1079.69
+  },
+  "Grimstone": {
+    "avg": [
+      36,
+      53,
+      38
+    ],
+    "variance": 1204.07
+  },
+  "Stone Wall": {
+    "avg": [
+      172,
+      169,
+      166
+    ],
+    "variance": 6945.77
+  },
+  "Whoopie Pie Block": {
+    "avg": [
+      238,
+      164,
+      75
+    ],
+    "variance": 9679.69
+  },
+  "E-Z Cook Oven": {
+    "avg": [
+      219,
+      202,
+      189
+    ],
+    "variance": 10054.22
+  },
+  "Firehouse": {
+    "avg": [
+      122,
+      81,
+      65
+    ],
+    "variance": 8288.71
+  },
+  "Conveyor Block": {
+    "avg": [
+      92,
+      90,
+      83
+    ],
+    "variance": 10640.68
+  },
+  "Halfling House": {
+    "avg": [
+      122,
+      132,
+      99
+    ],
+    "variance": 9818.9
+  },
+  "Texas Limestone": {
+    "avg": [
+      172,
+      126,
+      74
+    ],
+    "variance": 6665.09
+  },
+  "Toxic Waste Barrel": {
+    "avg": [
+      219,
+      212,
+      59
+    ],
+    "variance": 2291.59
+  },
+  "Frozen Stone Cliffs": {
+    "avg": [
+      124,
+      116,
+      110
+    ],
+    "variance": 8077.11
+  },
+  "Nobleman's House": {
+    "avg": [
+      104,
+      96,
+      93
+    ],
+    "variance": 13900.39
+  },
+  "Vending Machine": {
+    "avg": [
+      85,
+      90,
+      93
+    ],
+    "variance": 6470.4
+  },
+  "Icy Igloo": {
+    "avg": [
+      169,
+      210,
+      228
+    ],
+    "variance": 3617.79
+  },
+  "Tombstone": {
+    "avg": [
+      136,
+      142,
+      139
+    ],
+    "variance": 1520.76
+  },
+  "Halfling House Door": {
+    "avg": [
+      71,
+      132,
+      125
+    ],
+    "variance": 14661.36
+  },
+  "Olmec Head": {
+    "avg": [
+      92,
+      85,
+      100
+    ],
+    "variance": 6599.18
+  },
+  "Toasted Village Wall": {
+    "avg": [
+      41,
+      53,
+      63
+    ],
+    "variance": 2086.75
+  },
+  "Corrupted Castle Door": {
+    "avg": [
+      55,
+      26,
+      62
+    ],
+    "variance": 2067.1
+  },
+  "G-Virus Info Sign": {
+    "avg": [
+      200,
+      163,
+      163
+    ],
+    "variance": 11698.31
+  },
+  "GrowCon Plaque": {
+    "avg": [
+      123,
+      125,
+      118
+    ],
+    "variance": 20913.76
+  },
+  "Happy Joy Plaque": {
+    "avg": [
+      162,
+      201,
+      148
+    ],
+    "variance": 5031.23
+  },
+  "Log Cabin": {
+    "avg": [
+      147,
+      111,
+      64
+    ],
+    "variance": 748.61
+  },
+  "Rollback Plaque VI": {
+    "avg": [
+      35,
+      198,
+      235
+    ],
+    "variance": 6992.1
+  },
+  "Steam Door": {
+    "avg": [
+      155,
+      147,
+      99
+    ],
+    "variance": 2470.52
+  },
+  "Moss-Covered Stone": {
+    "avg": [
+      88,
+      112,
+      98
+    ],
+    "variance": 3572.46
+  },
+  "Stone Block": {
+    "avg": [
+      155,
+      123,
+      64
+    ],
+    "variance": 2283.96
+  },
+  "Glacier Background": {
+    "avg": [
+      25,
+      41,
+      62
+    ],
+    "variance": 893.1
+  },
+  "Hidden Treasure": {
+    "avg": [
+      225,
+      197,
+      70
+    ],
+    "variance": 10608.52
+  },
+  "Starship Door": {
+    "avg": [
+      125,
+      125,
+      125
+    ],
+    "variance": 11090.98
+  },
+  "Barrel Dispenser": {
+    "avg": [
+      154,
+      120,
+      91
+    ],
+    "variance": 5157.21
+  },
+  "Garbage": {
+    "avg": [
+      184,
+      169,
+      169
+    ],
+    "variance": 3780.99
+  },
+  "Mage's Chest": {
+    "avg": [
+      117,
+      114,
+      100
+    ],
+    "variance": 10956.01
+  },
+  "Candy Brick Wall": {
+    "avg": [
+      205,
+      154,
+      163
+    ],
+    "variance": 11152.91
+  },
+  "Davy Jones' Chest": {
+    "avg": [
+      123,
+      109,
+      61
+    ],
+    "variance": 5458.83
+  },
+  "Fatberg Block": {
+    "avg": [
+      245,
+      195,
+      180
+    ],
+    "variance": 1840.97
+  },
+  "Festive Banner": {
+    "avg": [
+      174,
+      186,
+      65
+    ],
+    "variance": 17608.8
+  },
+  "Phone Booth": {
+    "avg": [
+      136,
+      201,
+      218
+    ],
+    "variance": 4896.33
+  },
+  "Seat of Power Banner": {
+    "avg": [
+      104,
+      158,
+      193
+    ],
+    "variance": 12760.74
+  },
+  "Teeny Blocks": {
+    "avg": [
+      189,
+      189,
+      189
+    ],
+    "variance": 7436.0
+  },
+  "Booty Chest": {
+    "avg": [
+      209,
+      78,
+      177
+    ],
+    "variance": 4407.52
+  },
+  "Mimic Chest": {
+    "avg": [
+      162,
+      113,
+      61
+    ],
+    "variance": 2813.36
+  },
+  "Treasure Chest": {
+    "avg": [
+      171,
+      120,
+      52
+    ],
+    "variance": 3539.84
+  },
+  "Hedge": {
+    "avg": [
+      26,
+      158,
+      2
+    ],
+    "variance": 6214.28
+  },
+  "Spooky Display Shelf": {
+    "avg": [
+      43,
+      34,
+      50
+    ],
+    "variance": 8345.04
+  },
+  "Winter Hedge": {
+    "avg": [
+      206,
+      142,
+      0
+    ],
+    "variance": 5792.64
+  },
+  "Alien Block": {
+    "avg": [
+      131,
+      159,
+      98
+    ],
+    "variance": 6507.44
+  },
+  "Dark Castle Stone": {
+    "avg": [
+      39,
+      30,
+      62
+    ],
+    "variance": 2583.53
+  },
+  "Dumpster": {
+    "avg": [
+      76,
+      77,
+      93
+    ],
+    "variance": 4025.8
+  },
+  "Dungeons Dirt": {
+    "avg": [
+      39,
+      30,
+      62
+    ],
+    "variance": 2583.53
+  },
+  "Garden Planter": {
+    "avg": [
+      187,
+      158,
+      119
+    ],
+    "variance": 1689.42
+  },
+  "Gingerbread Roof": {
+    "avg": [
+      229,
+      206,
+      175
+    ],
+    "variance": 7043.58
+  },
+  "Pearl Castle Stone": {
+    "avg": [
+      194,
+      172,
+      221
+    ],
+    "variance": 8908.19
+  },
+  "Pinball Bumper": {
+    "avg": [
+      183,
+      197,
+      118
+    ],
+    "variance": 18176.29
+  },
+  "Steam Collector": {
+    "avg": [
+      169,
+      135,
+      87
+    ],
+    "variance": 3654.91
+  },
+  "Steppin' Ghost": {
+    "avg": [
+      108,
+      197,
+      177
+    ],
+    "variance": 14681.77
+  },
+  "Xenoid Block": {
+    "avg": [
+      115,
+      169,
+      182
+    ],
+    "variance": 7525.16
+  },
+  "Castle Stone Background": {
+    "avg": [
+      87,
+      80,
+      81
+    ],
+    "variance": 3028.65
+  },
+  "Castle Stone": {
+    "avg": [
+      130,
+      121,
+      123
+    ],
+    "variance": 6559.18
+  },
+  "Dark Castle Stone Background": {
+    "avg": [
+      21,
+      13,
+      33
+    ],
+    "variance": 763.59
+  },
+  "Diamond Castle Stone Background": {
+    "avg": [
+      26,
+      128,
+      142
+    ],
+    "variance": 3684.59
+  },
+  "Diamond Castle Stone": {
+    "avg": [
+      130,
+      207,
+      217
+    ],
+    "variance": 8291.35
+  },
+  "Diamond Manor House Background": {
+    "avg": [
+      25,
+      125,
+      139
+    ],
+    "variance": 3810.19
+  },
+  "Diamond Manor House": {
+    "avg": [
+      129,
+      207,
+      218
+    ],
+    "variance": 7818.86
+  },
+  "Heartcastle Stone Background": {
+    "avg": [
+      92,
+      99,
+      110
+    ],
+    "variance": 3162.38
+  },
+  "Heartcastle Stone": {
+    "avg": [
+      145,
+      152,
+      165
+    ],
+    "variance": 7049.25
+  },
+  "Manor House Sandstone Background": {
+    "avg": [
+      151,
+      121,
+      91
+    ],
+    "variance": 2537.98
+  },
+  "Manor House Sandstone": {
+    "avg": [
+      199,
+      173,
+      138
+    ],
+    "variance": 4127.07
+  },
+  "Pearl Castle Stone Background": {
+    "avg": [
+      174,
+      107,
+      187
+    ],
+    "variance": 10705.07
+  },
+  "Doggy Block": {
+    "avg": [
+      228,
+      212,
+      198
+    ],
+    "variance": 6861.49
+  },
+  "Cave Dirt": {
+    "avg": [
+      60,
+      56,
+      34
+    ],
+    "variance": 1104.38
+  },
+  "Gothic Building": {
+    "avg": [
+      80,
+      103,
+      103
+    ],
+    "variance": 1068.36
+  },
+  "The Varlaak": {
+    "avg": [
+      155,
+      133,
+      105
+    ],
+    "variance": 6030.56
+  },
+  "Barrel": {
+    "avg": [
+      156,
+      124,
+      96
+    ],
+    "variance": 6611.65
+  },
+  "Emerald Block": {
+    "avg": [
+      77,
+      203,
+      65
+    ],
+    "variance": 15439.03
+  },
+  "Gateway To Adventure": {
+    "avg": [
+      124,
+      182,
+      176
+    ],
+    "variance": 3970.93
+  },
+  "Plumbing": {
+    "avg": [
+      49,
+      172,
+      21
+    ],
+    "variance": 3081.38
+  },
+  "Castle Door": {
+    "avg": [
+      161,
+      160,
+      157
+    ],
+    "variance": 3995.8
+  },
+  "Party Pager Block": {
+    "avg": [
+      69,
+      112,
+      179
+    ],
+    "variance": 13225.23
+  },
+  "Sidewalk": {
+    "avg": [
+      126,
+      78,
+      57
+    ],
+    "variance": 3361.1
+  },
+  "Gold Monitor Checkpoint": {
+    "avg": [
+      51,
+      95,
+      64
+    ],
+    "variance": 4474.72
+  },
+  "Rayman - Dream Forest Dirt": {
+    "avg": [
+      99,
+      146,
+      75
+    ],
+    "variance": 7131.06
+  },
+  "Fancy Fish Wall Mount": {
+    "avg": [
+      175,
+      83,
+      32
+    ],
+    "variance": 9136.42
+  },
+  "Lava Falls": {
+    "avg": [
+      218,
+      50,
+      25
+    ],
+    "variance": 8260.56
+  },
+  "Steam Lifter Piston": {
+    "avg": [
+      180,
+      121,
+      75
+    ],
+    "variance": 3240.64
+  },
+  "Steam Piston": {
+    "avg": [
+      180,
+      121,
+      75
+    ],
+    "variance": 3240.64
+  },
+  "Assassin's Creed_ Wanted Poster": {
+    "avg": [
+      151,
+      123,
+      89
+    ],
+    "variance": 2365.81
+  },
+  "Chemsynth Processor": {
+    "avg": [
+      136,
+      156,
+      137
+    ],
+    "variance": 13595.45
+  },
+  "Cobblestone Block": {
+    "avg": [
+      122,
+      122,
+      122
+    ],
+    "variance": 4420.26
+  },
+  "Long Tree Log": {
+    "avg": [
+      120,
+      69,
+      47
+    ],
+    "variance": 197.05
+  },
+  "Mossy Cobblestone Block": {
+    "avg": [
+      111,
+      123,
+      117
+    ],
+    "variance": 5077.75
+  },
+  "Otherworldly Block": {
+    "avg": [
+      98,
+      81,
+      114
+    ],
+    "variance": 4710.69
+  },
+  "Rock Background": {
+    "avg": [
+      121,
+      123,
+      125
+    ],
+    "variance": 1846.66
+  },
+  "Tall Tree Log": {
+    "avg": [
+      120,
+      69,
+      47
+    ],
+    "variance": 188.31
+  },
+  "Great Turret of Growtopia": {
+    "avg": [
+      178,
+      148,
+      113
+    ],
+    "variance": 3290.49
+  },
+  "Siberian Tiger Block": {
+    "avg": [
+      171,
+      176,
+      180
+    ],
+    "variance": 10537.19
+  },
+  "Electrical Power Cube": {
+    "avg": [
+      134,
+      187,
+      188
+    ],
+    "variance": 7998.86
+  },
+  "Steam Gear": {
+    "avg": [
+      196,
+      124,
+      73
+    ],
+    "variance": 2688.83
+  },
+  "Steam Tubes": {
+    "avg": [
+      167,
+      119,
+      73
+    ],
+    "variance": 3915.98
+  },
+  "Bamboo": {
+    "avg": [
+      148,
+      163,
+      83
+    ],
+    "variance": 2954.36
+  },
+  "Leaping Carp, Hidden Dragon": {
+    "avg": [
+      193,
+      141,
+      109
+    ],
+    "variance": 11964.64
+  },
+  "Corrupted Castle": {
+    "avg": [
+      69,
+      48,
+      58
+    ],
+    "variance": 7900.14
+  },
+  "Immortals Fenyx Rising - Eternal Spring Column": {
+    "avg": [
+      181,
+      179,
+      170
+    ],
+    "variance": 7737.25
+  },
+  "Pineapple Table": {
+    "avg": [
+      173,
+      154,
+      48
+    ],
+    "variance": 10290.8
+  },
+  "Cow Cube": {
+    "avg": [
+      183,
+      169,
+      151
+    ],
+    "variance": 4741.88
+  },
+  "Nutmeg Block": {
+    "avg": [
+      171,
+      121,
+      84
+    ],
+    "variance": 4118.27
+  },
+  "Casita Block": {
+    "avg": [
+      193,
+      135,
+      86
+    ],
+    "variance": 10004.71
+  },
+  "Colonization Wagon Canopy": {
+    "avg": [
+      191,
+      167,
+      134
+    ],
+    "variance": 3675.69
+  },
+  "Fossil Prep Station": {
+    "avg": [
+      182,
+      212,
+      205
+    ],
+    "variance": 4117.98
+  },
+  "Ghost Charm": {
+    "avg": [
+      80,
+      94,
+      105
+    ],
+    "variance": 20133.74
+  },
+  "Heartcastle Column": {
+    "avg": [
+      198,
+      192,
+      184
+    ],
+    "variance": 5951.76
+  },
+  "Lovewillow": {
+    "avg": [
+      188,
+      185,
+      185
+    ],
+    "variance": 5892.48
+  },
+  "Colorful Cake Slice": {
+    "avg": [
+      206,
+      149,
+      124
+    ],
+    "variance": 15945.12
+  },
+  "Colorful Cake": {
+    "avg": [
+      238,
+      168,
+      191
+    ],
+    "variance": 3509.73
+  },
+  "Fallen Pillar": {
+    "avg": [
+      198,
+      186,
+      163
+    ],
+    "variance": 1620.55
+  },
+  "Pillar": {
+    "avg": [
+      198,
+      186,
+      163
+    ],
+    "variance": 1620.55
+  },
+  "Uranium Block": {
+    "avg": [
+      76,
+      219,
+      96
+    ],
+    "variance": 4873.06
+  },
+  "Bamboo Frame": {
+    "avg": [
+      156,
+      117,
+      43
+    ],
+    "variance": 6807.73
+  },
+  "Cotton Candy Clouds": {
+    "avg": [
+      247,
+      173,
+      240
+    ],
+    "variance": 2120.11
+  },
+  "HyperTech Starship Viewscreen - Mk.III": {
+    "avg": [
+      132,
+      66,
+      50
+    ],
+    "variance": 7755.47
+  },
+  "Igneous Fossil Rock": {
+    "avg": [
+      142,
+      153,
+      168
+    ],
+    "variance": 3982.62
+  },
+  "Igneous Rock": {
+    "avg": [
+      141,
+      152,
+      168
+    ],
+    "variance": 3939.96
+  },
+  "Pineapple Tiki Door": {
+    "avg": [
+      169,
+      148,
+      58
+    ],
+    "variance": 6569.58
+  },
+  "Greezak Horde Starship Viewscreen - Mk.III": {
+    "avg": [
+      99,
+      82,
+      77
+    ],
+    "variance": 6688.43
+  },
+  "Imperial Starship Viewscreen - Mk.III": {
+    "avg": [
+      128,
+      125,
+      136
+    ],
+    "variance": 13354.34
+  },
+  "Sea Sponge": {
+    "avg": [
+      241,
+      171,
+      116
+    ],
+    "variance": 5511.81
+  },
+  "Stellarix Union Starship Viewscreen - Mk.III": {
+    "avg": [
+      94,
+      82,
+      57
+    ],
+    "variance": 6794.25
+  },
+  "Adobe Block": {
+    "avg": [
+      219,
+      184,
+      168
+    ],
+    "variance": 3768.73
+  },
+  "Assassin's Creed_ Renaissance Arch": {
+    "avg": [
+      127,
+      105,
+      75
+    ],
+    "variance": 8850.9
+  },
+  "Puerto Growtopia House - Blue": {
+    "avg": [
+      120,
+      174,
+      145
+    ],
+    "variance": 13389.77
+  },
+  "Steam Organ": {
+    "avg": [
+      172,
+      119,
+      72
+    ],
+    "variance": 4499.64
+  },
+  "Donation Box": {
+    "avg": [
+      76,
+      108,
+      114
+    ],
+    "variance": 11006.92
+  },
+  "Guestbook": {
+    "avg": [
+      199,
+      185,
+      171
+    ],
+    "variance": 7554.65
+  },
+  "Holiday Gift Box": {
+    "avg": [
+      134,
+      82,
+      18
+    ],
+    "variance": 13667.88
+  },
+  "Churro Block": {
+    "avg": [
+      203,
+      142,
+      104
+    ],
+    "variance": 4880.16
+  },
+  "Sandbag Wall": {
+    "avg": [
+      127,
+      106,
+      83
+    ],
+    "variance": 2769.5
+  },
+  "Assassin's Creed_ Renaissance House": {
+    "avg": [
+      91,
+      64,
+      50
+    ],
+    "variance": 1300.96
+  },
+  "Steam Crank": {
+    "avg": [
+      174,
+      126,
+      87
+    ],
+    "variance": 6184.49
+  },
+  "Theater Curtain": {
+    "avg": [
+      178,
+      33,
+      33
+    ],
+    "variance": 2764.66
+  },
+  "Ultra Red Phoenix Fragment": {
+    "avg": [
+      174,
+      66,
+      28
+    ],
+    "variance": 5174.97
+  },
+  "Diamond Pineapple House": {
+    "avg": [
+      84,
+      158,
+      168
+    ],
+    "variance": 14822.27
+  },
+  "Super Pineapple House": {
+    "avg": [
+      198,
+      138,
+      43
+    ],
+    "variance": 8729.27
+  },
+  "Ultra Blue Neptune Fragment": {
+    "avg": [
+      5,
+      128,
+      184
+    ],
+    "variance": 5105.13
+  },
+  "Weeping Willow Foliage": {
+    "avg": [
+      134,
+      167,
+      79
+    ],
+    "variance": 1530.37
+  },
+  "Block De Mayo Block": {
+    "avg": [
+      211,
+      169,
+      47
+    ],
+    "variance": 14151.0
+  },
+  "Bouncy Bunny": {
+    "avg": [
+      224,
+      220,
+      225
+    ],
+    "variance": 4635.74
+  },
+  "Space Conveyor Block": {
+    "avg": [
+      43,
+      187,
+      227
+    ],
+    "variance": 7299.15
+  },
+  "Bountiful Jungle Temple Pillar": {
+    "avg": [
+      126,
+      137,
+      92
+    ],
+    "variance": 6817.02
+  },
+  "Demon Cow Cube": {
+    "avg": [
+      81,
+      76,
+      80
+    ],
+    "variance": 9664.01
+  },
+  "Giant's Causeway Block": {
+    "avg": [
+      137,
+      120,
+      106
+    ],
+    "variance": 4545.9
+  },
+  "Immortals Fenyx Rising - Eternal Spring Mountain": {
+    "avg": [
+      145,
+      178,
+      150
+    ],
+    "variance": 9222.07
+  },
+  "Prehistoric Palm": {
+    "avg": [
+      86,
+      86,
+      43
+    ],
+    "variance": 2853.44
+  },
+  "Rotten Woodland Tree": {
+    "avg": [
+      106,
+      95,
+      60
+    ],
+    "variance": 1241.93
+  },
+  "Used Diamond Builders Bonanza": {
+    "avg": [
+      109,
+      135,
+      143
+    ],
+    "variance": 16372.04
+  },
+  "Weeping Willow": {
+    "avg": [
+      80,
+      64,
+      36
+    ],
+    "variance": 968.9
+  },
+  "Bathroom Mirror": {
+    "avg": [
+      160,
+      177,
+      167
+    ],
+    "variance": 14304.88
+  },
+  "Bricks": {
+    "avg": [
+      200,
+      83,
+      32
+    ],
+    "variance": 3035.57
+  },
+  "Karaoke Machine": {
+    "avg": [
+      64,
+      67,
+      74
+    ],
+    "variance": 15327.12
+  },
+  "Shepard's Pie Block": {
+    "avg": [
+      197,
+      172,
+      130
+    ],
+    "variance": 13166.09
+  },
+  "Slippers in Sand": {
+    "avg": [
+      37,
+      147,
+      178
+    ],
+    "variance": 13758.92
+  },
+  "Moon Palace": {
+    "avg": [
+      215,
+      184,
+      143
+    ],
+    "variance": 6402.26
+  },
+  "Puerto Growtopia House - Yellow": {
+    "avg": [
+      182,
+      122,
+      36
+    ],
+    "variance": 10425.56
+  },
+  "Dungeon Door": {
+    "avg": [
+      162,
+      135,
+      109
+    ],
+    "variance": 6696.58
+  },
+  "Pile of Pancakes": {
+    "avg": [
+      175,
+      115,
+      71
+    ],
+    "variance": 7341.45
+  },
+  "Air Conditioner": {
+    "avg": [
+      136,
+      136,
+      136
+    ],
+    "variance": 4205.72
+  },
+  "Magic Infused Stone Background": {
+    "avg": [
+      14,
+      11,
+      27
+    ],
+    "variance": 33.59
+  },
+  "Magic Infused Stone": {
+    "avg": [
+      18,
+      20,
+      35
+    ],
+    "variance": 558.34
+  },
+  "Pineapple Pizza Piece": {
+    "avg": [
+      228,
+      149,
+      48
+    ],
+    "variance": 6725.64
+  },
+  "Robotic Lock": {
+    "avg": [
+      142,
+      137,
+      97
+    ],
+    "variance": 8366.74
+  },
+  "Ultra White Fragment": {
+    "avg": [
+      140,
+      152,
+      175
+    ],
+    "variance": 5023.67
+  },
+  "Magic Cobblestone Column": {
+    "avg": [
+      68,
+      84,
+      120
+    ],
+    "variance": 5580.92
+  },
+  "Cliffside": {
+    "avg": [
+      93,
+      54,
+      20
+    ],
+    "variance": 1330.45
+  },
+  "Builder's Lock": {
+    "avg": [
+      188,
+      175,
+      112
+    ],
+    "variance": 4622.56
+  },
+  "Diamond Lock": {
+    "avg": [
+      162,
+      224,
+      233
+    ],
+    "variance": 7423.42
+  },
+  "Emerald Lock": {
+    "avg": [
+      29,
+      202,
+      25
+    ],
+    "variance": 11325.51
+  },
+  "Huge Lock": {
+    "avg": [
+      197,
+      183,
+      118
+    ],
+    "variance": 3373.7
+  },
+  "My First World Lock": {
+    "avg": [
+      234,
+      186,
+      32
+    ],
+    "variance": 9809.02
+  },
+  "Ruby Lock": {
+    "avg": [
+      242,
+      151,
+      189
+    ],
+    "variance": 6887.23
+  },
+  "World Lock": {
+    "avg": [
+      240,
+      209,
+      35
+    ],
+    "variance": 5996.17
+  },
+  "Heartstone": {
+    "avg": [
+      224,
+      66,
+      110
+    ],
+    "variance": 5037.91
+  },
+  "ATM Machine": {
+    "avg": [
+      143,
+      170,
+      173
+    ],
+    "variance": 7746.68
+  },
+  "Balloon Jammer": {
+    "avg": [
+      175,
+      175,
+      175
+    ],
+    "variance": 3705.6
+  },
+  "Crystal Gate": {
+    "avg": [
+      162,
+      58,
+      186
+    ],
+    "variance": 18694.56
+  },
+  "Giant Taco House": {
+    "avg": [
+      198,
+      175,
+      125
+    ],
+    "variance": 3461.42
+  },
+  "Microwave": {
+    "avg": [
+      166,
+      162,
+      153
+    ],
+    "variance": 9023.71
+  },
+  "Punch Jammer": {
+    "avg": [
+      170,
+      170,
+      170
+    ],
+    "variance": 3356.21
+  },
+  "Signal Jammer": {
+    "avg": [
+      185,
+      185,
+      185
+    ],
+    "variance": 3455.93
+  },
+  "Slot Machine": {
+    "avg": [
+      228,
+      150,
+      58
+    ],
+    "variance": 11991.5
+  },
+  "Zombie Jammer": {
+    "avg": [
+      170,
+      170,
+      170
+    ],
+    "variance": 3479.86
+  },
+  "Jack O' Lantern": {
+    "avg": [
+      156,
+      79,
+      23
+    ],
+    "variance": 6694.67
+  },
+  "Scroll Bulletin": {
+    "avg": [
+      182,
+      178,
+      153
+    ],
+    "variance": 5370.87
+  },
+  "Terracotta Pot": {
+    "avg": [
+      186,
+      138,
+      103
+    ],
+    "variance": 841.74
+  },
+  "Pencil": {
+    "avg": [
+      208,
+      185,
+      130
+    ],
+    "variance": 7386.99
+  },
+  "Boulder": {
+    "avg": [
+      216,
+      179,
+      40
+    ],
+    "variance": 2362.72
+  },
+  "Deep Fossil Rock": {
+    "avg": [
+      76,
+      116,
+      44
+    ],
+    "variance": 2507.94
+  },
+  "Deep Rock": {
+    "avg": [
+      76,
+      116,
+      43
+    ],
+    "variance": 2443.1
+  },
+  "Fossil Boulder": {
+    "avg": [
+      216,
+      179,
+      41
+    ],
+    "variance": 2618.52
+  },
+  "Diamond Retro Tape Block": {
+    "avg": [
+      147,
+      219,
+      229
+    ],
+    "variance": 5343.36
+  },
+  "Retro Tape Block": {
+    "avg": [
+      233,
+      205,
+      181
+    ],
+    "variance": 10813.53
+  },
+  "Greezak Horde Starship Helm - Mk.III": {
+    "avg": [
+      73,
+      76,
+      67
+    ],
+    "variance": 5107.09
+  },
+  "HyperTech Starship Helm - Mk.III": {
+    "avg": [
+      108,
+      51,
+      45
+    ],
+    "variance": 6219.99
+  },
+  "Imperial Starship Helm - Mk.III": {
+    "avg": [
+      133,
+      137,
+      144
+    ],
+    "variance": 14249.76
+  },
+  "Stellarix Union Starship Helm - Mk.III": {
+    "avg": [
+      87,
+      78,
+      52
+    ],
+    "variance": 4614.3
+  },
+  "Auction Block - Sold Out": {
+    "avg": [
+      167,
+      155,
+      162
+    ],
+    "variance": 14366.04
+  },
+  "Galleon Hull": {
+    "avg": [
+      109,
+      80,
+      47
+    ],
+    "variance": 5165.36
+  },
+  "Transmutabooth": {
+    "avg": [
+      137,
+      95,
+      57
+    ],
+    "variance": 11084.05
+  },
+  "Diamond Ladybug Trampoline": {
+    "avg": [
+      41,
+      127,
+      138
+    ],
+    "variance": 12919.53
+  },
+  "Guild Banner - Normal (Vertical)": {
+    "avg": [
+      136,
+      136,
+      136
+    ],
+    "variance": 5521.24
+  },
+  "Guild Banner - Ornate (Vertical)": {
+    "avg": [
+      150,
+      150,
+      150
+    ],
+    "variance": 9359.89
+  },
+  "Ladybug Trampoline": {
+    "avg": [
+      110,
+      44,
+      45
+    ],
+    "variance": 7580.82
+  },
+  "Wooden Pagoda Roof": {
+    "avg": [
+      111,
+      58,
+      72
+    ],
+    "variance": 6072.56
+  },
+  "Boney Block": {
+    "avg": [
+      172,
+      172,
+      172
+    ],
+    "variance": 11159.24
+  },
+  "Sale Television": {
+    "avg": [
+      86,
+      87,
+      86
+    ],
+    "variance": 7645.55
+  },
+  "Stack of Lanterns": {
+    "avg": [
+      180,
+      151,
+      93
+    ],
+    "variance": 5248.18
+  },
+  "Celtic Block": {
+    "avg": [
+      179,
+      145,
+      56
+    ],
+    "variance": 10699.31
+  },
+  "GFW Bucket Block": {
+    "avg": [
+      210,
+      94,
+      77
+    ],
+    "variance": 18346.74
+  },
+  "Sandstone Fireplace": {
+    "avg": [
+      127,
+      111,
+      90
+    ],
+    "variance": 16527.04
+  },
+  "Anatomy Chart": {
+    "avg": [
+      202,
+      211,
+      217
+    ],
+    "variance": 5188.57
+  },
+  "Food Chart": {
+    "avg": [
+      176,
+      161,
+      176
+    ],
+    "variance": 9492.69
+  },
+  "Juice Waterfall": {
+    "avg": [
+      182,
+      242,
+      162
+    ],
+    "variance": 9743.94
+  },
+  "Mahogany Frame": {
+    "avg": [
+      129,
+      72,
+      56
+    ],
+    "variance": 5154.95
+  },
+  "Steam Stomper": {
+    "avg": [
+      150,
+      45,
+      43
+    ],
+    "variance": 1838.04
+  },
+  "Stone Pagoda": {
+    "avg": [
+      113,
+      79,
+      95
+    ],
+    "variance": 5274.02
+  },
+  "Sunnyside Yolkfall": {
+    "avg": [
+      254,
+      212,
+      116
+    ],
+    "variance": 13550.21
+  },
+  "Waterfall": {
+    "avg": [
+      124,
+      210,
+      248
+    ],
+    "variance": 12989.78
+  },
+  "Rayman - Band Land Bridge": {
+    "avg": [
+      157,
+      155,
+      150
+    ],
+    "variance": 11387.13
+  },
+  "GHX Speaker": {
+    "avg": [
+      19,
+      19,
+      19
+    ],
+    "variance": 337.16
+  },
+  "Laboratory": {
+    "avg": [
+      193,
+      209,
+      207
+    ],
+    "variance": 4888.76
+  },
+  "Crystal Clock": {
+    "avg": [
+      101,
+      153,
+      166
+    ],
+    "variance": 11210.66
+  },
+  "Olde Timey Radio": {
+    "avg": [
+      159,
+      93,
+      58
+    ],
+    "variance": 4340.72
+  },
+  "Pineapple Guzzler": {
+    "avg": [
+      145,
+      157,
+      61
+    ],
+    "variance": 8061.91
+  },
+  "Haunted Mausoleum": {
+    "avg": [
+      98,
+      101,
+      91
+    ],
+    "variance": 1332.09
+  },
+  "Diamond Builders Bonanza": {
+    "avg": [
+      100,
+      144,
+      167
+    ],
+    "variance": 11533.53
+  },
+  "Ruined Bricks": {
+    "avg": [
+      102,
+      58,
+      37
+    ],
+    "variance": 2618.6
+  },
+  "Dark Spirit Board": {
+    "avg": [
+      83,
+      77,
+      76
+    ],
+    "variance": 10734.63
+  },
+  "Spirit Board": {
+    "avg": [
+      150,
+      126,
+      94
+    ],
+    "variance": 8162.54
+  },
+  "Slime": {
+    "avg": [
+      209,
+      213,
+      56
+    ],
+    "variance": 5341.77
+  },
+  "Strawberry Slime Block": {
+    "avg": [
+      231,
+      37,
+      145
+    ],
+    "variance": 4061.18
+  },
+  "Giant Clam": {
+    "avg": [
+      126,
+      137,
+      109
+    ],
+    "variance": 16593.3
+  },
+  "Punchy Fist": {
+    "avg": [
+      214,
+      188,
+      130
+    ],
+    "variance": 1528.23
+  },
+  "Blood Dragon Lock": {
+    "avg": [
+      50,
+      109,
+      135
+    ],
+    "variance": 10292.12
+  },
+  "Stellarix Union Starship Reactor - Mk.III": {
+    "avg": [
+      74,
+      77,
+      51
+    ],
+    "variance": 3411.63
+  },
+  "Techno Grass": {
+    "avg": [
+      42,
+      74,
+      103
+    ],
+    "variance": 17451.94
+  },
+  "Bush": {
+    "avg": [
+      94,
+      192,
+      44
+    ],
+    "variance": 2204.38
+  },
+  "Forge": {
+    "avg": [
+      74,
+      56,
+      53
+    ],
+    "variance": 1812.77
+  },
+  "Party Couch": {
+    "avg": [
+      209,
+      80,
+      32
+    ],
+    "variance": 1893.18
+  },
+  "Black Party Table": {
+    "avg": [
+      35,
+      35,
+      35
+    ],
+    "variance": 1260.22
+  },
+  "Open Present Block": {
+    "avg": [
+      143,
+      121,
+      75
+    ],
+    "variance": 20600.7
+  },
+  "Antigravity Generator": {
+    "avg": [
+      132,
+      138,
+      131
+    ],
+    "variance": 7442.89
+  },
+  "Log Cabin Roof": {
+    "avg": [
+      119,
+      99,
+      73
+    ],
+    "variance": 4296.3
+  },
+  "Pot O' Gold": {
+    "avg": [
+      101,
+      96,
+      57
+    ],
+    "variance": 13063.87
+  },
+  "Clouds Background": {
+    "avg": [
+      169,
+      198,
+      199
+    ],
+    "variance": 387.49
+  },
+  "Clouds": {
+    "avg": [
+      234,
+      244,
+      245
+    ],
+    "variance": 669.29
+  },
+  "Sunset Clouds Background": {
+    "avg": [
+      213,
+      176,
+      156
+    ],
+    "variance": 916.33
+  },
+  "Sunset Clouds": {
+    "avg": [
+      250,
+      210,
+      189
+    ],
+    "variance": 1189.0
+  },
+  "Calliope": {
+    "avg": [
+      224,
+      102,
+      25
+    ],
+    "variance": 9711.03
+  },
+  "Cooler Box": {
+    "avg": [
+      117,
+      113,
+      114
+    ],
+    "variance": 9544.26
+  },
+  "Deep Sand": {
+    "avg": [
+      41,
+      58,
+      25
+    ],
+    "variance": 264.19
+  },
+  "Digital Dirt": {
+    "avg": [
+      8,
+      83,
+      21
+    ],
+    "variance": 6942.92
+  },
+  "Dirt": {
+    "avg": [
+      82,
+      85,
+      40
+    ],
+    "variance": 2910.23
+  },
+  "Fruit Sand": {
+    "avg": [
+      236,
+      139,
+      169
+    ],
+    "variance": 2803.07
+  },
+  "Martian Soil": {
+    "avg": [
+      150,
+      7,
+      0
+    ],
+    "variance": 673.92
+  },
+  "Matrix Dirt": {
+    "avg": [
+      76,
+      86,
+      94
+    ],
+    "variance": 21993.95
+  },
+  "Monochromatic Dirt": {
+    "avg": [
+      71,
+      71,
+      71
+    ],
+    "variance": 1917.42
+  },
+  "Sand": {
+    "avg": [
+      243,
+      229,
+      133
+    ],
+    "variance": 2394.93
+  },
+  "Super Golden Booty Chest": {
+    "avg": [
+      220,
+      172,
+      93
+    ],
+    "variance": 12403.86
+  },
+  "Buddy's Sign": {
+    "avg": [
+      131,
+      103,
+      69
+    ],
+    "variance": 12014.78
+  },
+  "Geiger Charger": {
+    "avg": [
+      163,
+      156,
+      118
+    ],
+    "variance": 7650.45
+  },
+  "Greezak Horde Starship Helm - Mk.II": {
+    "avg": [
+      67,
+      78,
+      73
+    ],
+    "variance": 5015.46
+  },
+  "Guild Banner - Normal (Horizontal)": {
+    "avg": [
+      136,
+      136,
+      136
+    ],
+    "variance": 5545.28
+  },
+  "Guild Banner - Ornate (Horizontal)": {
+    "avg": [
+      155,
+      155,
+      155
+    ],
+    "variance": 10928.78
+  },
+  "HyperTech Starship Helm - Mk.II": {
+    "avg": [
+      103,
+      51,
+      51
+    ],
+    "variance": 6615.01
+  },
+  "Imperial Starship Helm - Mk.II": {
+    "avg": [
+      128,
+      140,
+      150
+    ],
+    "variance": 13726.12
+  },
+  "Jungle Pillar": {
+    "avg": [
+      188,
+      171,
+      134
+    ],
+    "variance": 2306.51
+  },
+  "Stellarix Union Starship Helm - Mk.II": {
+    "avg": [
+      80,
+      80,
+      57
+    ],
+    "variance": 4820.53
+  },
+  "Neon Party House Roof": {
+    "avg": [
+      121,
+      122,
+      176
+    ],
+    "variance": 16254.66
+  },
+  "Garden Bird House": {
+    "avg": [
+      138,
+      111,
+      91
+    ],
+    "variance": 13205.41
+  },
+  "Hay Cart": {
+    "avg": [
+      135,
+      116,
+      79
+    ],
+    "variance": 12140.77
+  },
+  "Neptune's Weather Machine - Atlantis": {
+    "avg": [
+      119,
+      139,
+      158
+    ],
+    "variance": 10513.1
+  },
+  "Presidential Throne": {
+    "avg": [
+      134,
+      134,
+      134
+    ],
+    "variance": 6315.51
+  },
+  "Bouncy Castle Block": {
+    "avg": [
+      136,
+      153,
+      130
+    ],
+    "variance": 25494.52
+  },
+  "Dragon Mirror": {
+    "avg": [
+      95,
+      123,
+      148
+    ],
+    "variance": 17963.14
+  },
+  "Guardian Pineapple": {
+    "avg": [
+      160,
+      153,
+      53
+    ],
+    "variance": 4506.74
+  },
+  "Topiary Hedge": {
+    "avg": [
+      68,
+      167,
+      77
+    ],
+    "variance": 1750.19
+  },
+  "Black Leather Couch": {
+    "avg": [
+      38,
+      38,
+      38
+    ],
+    "variance": 916.62
+  },
+  "Demon Crystal": {
+    "avg": [
+      141,
+      97,
+      113
+    ],
+    "variance": 8950.28
+  },
+  "Game Generator": {
+    "avg": [
+      123,
+      133,
+      136
+    ],
+    "variance": 12898.73
+  },
+  "Looming Pineapple": {
+    "avg": [
+      174,
+      165,
+      58
+    ],
+    "variance": 7644.11
+  },
+  "Aqua Crayon": {
+    "avg": [
+      44,
+      127,
+      122
+    ],
+    "variance": 6481.86
+  },
+  "Blue Crayon": {
+    "avg": [
+      66,
+      90,
+      156
+    ],
+    "variance": 6744.85
+  },
+  "Diamond Pine Throne": {
+    "avg": [
+      50,
+      157,
+      173
+    ],
+    "variance": 5309.22
+  },
+  "Green Crayon": {
+    "avg": [
+      86,
+      132,
+      72
+    ],
+    "variance": 5132.52
+  },
+  "Holographic Sign": {
+    "avg": [
+      70,
+      190,
+      217
+    ],
+    "variance": 2132.3
+  },
+  "Nobleman's House Roof": {
+    "avg": [
+      165,
+      128,
+      124
+    ],
+    "variance": 20242.31
+  },
+  "Purple Crayon": {
+    "avg": [
+      124,
+      72,
+      157
+    ],
+    "variance": 8520.33
+  },
+  "Red Crayon": {
+    "avg": [
+      190,
+      64,
+      82
+    ],
+    "variance": 10394.92
+  },
+  "The Pine Throne": {
+    "avg": [
+      112,
+      138,
+      33
+    ],
+    "variance": 10911.06
+  },
+  "Yellow Crayon": {
+    "avg": [
+      175,
+      146,
+      61
+    ],
+    "variance": 10815.48
+  },
+  "Fish Wall Mount": {
+    "avg": [
+      128,
+      91,
+      58
+    ],
+    "variance": 1190.63
+  },
+  "Cliffs of Moher": {
+    "avg": [
+      88,
+      110,
+      93
+    ],
+    "variance": 2833.92
+  },
+  "Presidential Chair": {
+    "avg": [
+      142,
+      142,
+      142
+    ],
+    "variance": 5597.44
+  },
+  "Dragon Gate": {
+    "avg": [
+      183,
+      173,
+      173
+    ],
+    "variance": 13562.51
+  },
+  "Ad Control Block": {
+    "avg": [
+      127,
+      176,
+      149
+    ],
+    "variance": 11713.95
+  },
+  "Auction Block": {
+    "avg": [
+      151,
+      164,
+      172
+    ],
+    "variance": 10940.79
+  },
+  "Bar Chocolate": {
+    "avg": [
+      112,
+      72,
+      45
+    ],
+    "variance": 687.54
+  },
+  "Buttercream Chocolate": {
+    "avg": [
+      125,
+      87,
+      62
+    ],
+    "variance": 7467.65
+  },
+  "Crunchy Chocolate": {
+    "avg": [
+      120,
+      77,
+      48
+    ],
+    "variance": 1937.75
+  },
+  "Crystal Chocolate": {
+    "avg": [
+      124,
+      84,
+      57
+    ],
+    "variance": 5377.41
+  },
+  "Diamond Pillow Trampoline": {
+    "avg": [
+      63,
+      157,
+      170
+    ],
+    "variance": 9929.93
+  },
+  "Glitter Pillow Trampoline": {
+    "avg": [
+      201,
+      42,
+      110
+    ],
+    "variance": 2129.62
+  },
+  "Hazelnut Chocolate": {
+    "avg": [
+      114,
+      74,
+      49
+    ],
+    "variance": 2941.54
+  },
+  "Heart Chocolate": {
+    "avg": [
+      107,
+      66,
+      45
+    ],
+    "variance": 1742.02
+  },
+  "Milky Heart Chocolate": {
+    "avg": [
+      129,
+      88,
+      62
+    ],
+    "variance": 6947.33
+  },
+  "Square Heart Chocolate": {
+    "avg": [
+      153,
+      112,
+      78
+    ],
+    "variance": 8234.02
+  },
+  "Tornado Block": {
+    "avg": [
+      184,
+      184,
+      184
+    ],
+    "variance": 2145.46
+  },
+  "Bountiful Lattice Fence": {
+    "avg": [
+      208,
+      165,
+      137
+    ],
+    "variance": 10319.54
+  },
+  "Chinese Prayer Wheel": {
+    "avg": [
+      178,
+      115,
+      79
+    ],
+    "variance": 16308.57
+  },
+  "Pearl Lamp": {
+    "avg": [
+      207,
+      162,
+      221
+    ],
+    "variance": 4112.39
+  },
+  "Castle Turret": {
+    "avg": [
+      135,
+      136,
+      137
+    ],
+    "variance": 4984.02
+  },
+  "Scoreboard": {
+    "avg": [
+      130,
+      130,
+      104
+    ],
+    "variance": 17757.61
+  },
+  "Stone Chimney": {
+    "avg": [
+      122,
+      124,
+      126
+    ],
+    "variance": 1470.77
+  },
+  "Rayman Lock": {
+    "avg": [
+      73,
+      81,
+      127
+    ],
+    "variance": 13817.54
+  },
+  "Corrupted Castle Roof": {
+    "avg": [
+      76,
+      52,
+      63
+    ],
+    "variance": 9404.49
+  },
+  "Basketball Hoop": {
+    "avg": [
+      199,
+      171,
+      169
+    ],
+    "variance": 12057.25
+  },
+  "Big Lock": {
+    "avg": [
+      196,
+      182,
+      117
+    ],
+    "variance": 3307.41
+  },
+  "Diamond Castle Turret": {
+    "avg": [
+      142,
+      214,
+      224
+    ],
+    "variance": 6494.77
+  },
+  "Egg Shell Spikes": {
+    "avg": [
+      170,
+      163,
+      196
+    ],
+    "variance": 10658.8
+  },
+  "Organ Piano": {
+    "avg": [
+      154,
+      97,
+      72
+    ],
+    "variance": 10560.09
+  },
+  "Space Dirt": {
+    "avg": [
+      98,
+      96,
+      87
+    ],
+    "variance": 7156.84
+  },
+  "Used Building Blocks Machine": {
+    "avg": [
+      241,
+      164,
+      42
+    ],
+    "variance": 3990.62
+  },
+  "Vending Hub - Checkout Counter": {
+    "avg": [
+      76,
+      124,
+      153
+    ],
+    "variance": 12342.61
+  },
+  "Bunny Lock": {
+    "avg": [
+      225,
+      206,
+      171
+    ],
+    "variance": 4613.44
+  },
+  "Colorful Cake Toppings": {
+    "avg": [
+      213,
+      39,
+      37
+    ],
+    "variance": 10785.2
+  },
+  "Pumpkin Keg": {
+    "avg": [
+      183,
+      86,
+      29
+    ],
+    "variance": 6407.96
+  },
+  "Rumah Adat Asmat": {
+    "avg": [
+      167,
+      158,
+      132
+    ],
+    "variance": 14109.99
+  },
+  "Couch": {
+    "avg": [
+      117,
+      165,
+      203
+    ],
+    "variance": 544.81
+  },
+  "Harmonipan": {
+    "avg": [
+      193,
+      105,
+      77
+    ],
+    "variance": 7461.18
+  },
+  "Acid": {
+    "avg": [
+      154,
+      232,
+      38
+    ],
+    "variance": 18497.64
+  },
+  "Hot Fudge": {
+    "avg": [
+      54,
+      23,
+      0
+    ],
+    "variance": 1169.58
+  },
+  "Lava": {
+    "avg": [
+      241,
+      113,
+      70
+    ],
+    "variance": 13087.23
+  },
+  "Monochromatic Lava": {
+    "avg": [
+      156,
+      156,
+      156
+    ],
+    "variance": 5081.96
+  },
+  "Vined Grandfather Clock": {
+    "avg": [
+      121,
+      115,
+      140
+    ],
+    "variance": 10215.19
+  },
+  "Train-E": {
+    "avg": [
+      99,
+      155,
+      168
+    ],
+    "variance": 14229.09
+  },
+  "Spirit Storage Unit": {
+    "avg": [
+      116,
+      91,
+      61
+    ],
+    "variance": 11490.02
+  },
+  "Autoclave": {
+    "avg": [
+      151,
+      155,
+      158
+    ],
+    "variance": 1604.26
+  },
+  "Blackrock Wall": {
+    "avg": [
+      11,
+      11,
+      18
+    ],
+    "variance": 226.93
+  },
+  "Building Blocks Machine": {
+    "avg": [
+      240,
+      164,
+      42
+    ],
+    "variance": 4181.01
+  },
+  "Lava Rock": {
+    "avg": [
+      64,
+      39,
+      31
+    ],
+    "variance": 2023.35
+  },
+  "Shamrock Seat": {
+    "avg": [
+      129,
+      115,
+      59
+    ],
+    "variance": 8385.01
+  },
+  "Blue Mailbox": {
+    "avg": [
+      38,
+      77,
+      175
+    ],
+    "variance": 2268.91
+  },
+  "Challenge Board": {
+    "avg": [
+      238,
+      127,
+      20
+    ],
+    "variance": 7349.98
+  },
+  "Granite Column": {
+    "avg": [
+      124,
+      132,
+      133
+    ],
+    "variance": 9706.62
+  },
+  "Dragon Block": {
+    "avg": [
+      104,
+      106,
+      30
+    ],
+    "variance": 5429.01
+  },
+  "Pinecone": {
+    "avg": [
+      160,
+      118,
+      70
+    ],
+    "variance": 6601.97
+  },
+  "Acorn": {
+    "avg": [
+      179,
+      130,
+      76
+    ],
+    "variance": 2861.63
+  },
+  "Prince of Persia_ Palace Dome": {
+    "avg": [
+      105,
+      111,
+      110
+    ],
+    "variance": 18355.06
+  },
+  "Super Summer Surprise": {
+    "avg": [
+      166,
+      133,
+      125
+    ],
+    "variance": 20900.91
+  },
+  "Toxic Waste": {
+    "avg": [
+      190,
+      255,
+      64
+    ],
+    "variance": 3526.02
+  },
+  "Blue Devourer Plant": {
+    "avg": [
+      33,
+      83,
+      144
+    ],
+    "variance": 3996.44
+  },
+  "Purple Devourer Plant": {
+    "avg": [
+      115,
+      53,
+      122
+    ],
+    "variance": 5672.76
+  },
+  "Bouncy Balloon": {
+    "avg": [
+      244,
+      137,
+      235
+    ],
+    "variance": 3560.82
+  },
+  "Command - Basic Shot Down": {
+    "avg": [
+      112,
+      97,
+      95
+    ],
+    "variance": 7348.23
+  },
+  "Command - Basic Shot Left": {
+    "avg": [
+      112,
+      97,
+      95
+    ],
+    "variance": 7348.23
+  },
+  "Command - Basic Shot Right": {
+    "avg": [
+      112,
+      97,
+      95
+    ],
+    "variance": 7348.23
+  },
+  "Command - Basic Shot Up": {
+    "avg": [
+      112,
+      97,
+      95
+    ],
+    "variance": 7348.23
+  },
+  "Command - Improved Shot Down": {
+    "avg": [
+      113,
+      98,
+      96
+    ],
+    "variance": 7585.73
+  },
+  "Command - Improved Shot Left": {
+    "avg": [
+      113,
+      98,
+      96
+    ],
+    "variance": 7585.73
+  },
+  "Command - Improved Shot Right": {
+    "avg": [
+      113,
+      98,
+      96
+    ],
+    "variance": 7585.73
+  },
+  "Command - Improved Shot Up": {
+    "avg": [
+      113,
+      98,
+      96
+    ],
+    "variance": 7585.73
+  },
+  "Command - Long Shot Down": {
+    "avg": [
+      112,
+      97,
+      95
+    ],
+    "variance": 7348.23
+  },
+  "Command - Long Shot Left": {
+    "avg": [
+      112,
+      97,
+      95
+    ],
+    "variance": 7348.23
+  },
+  "Command - Long Shot Right": {
+    "avg": [
+      112,
+      97,
+      95
+    ],
+    "variance": 7348.23
+  },
+  "Command - Long Shot Up": {
+    "avg": [
+      112,
+      97,
+      95
+    ],
+    "variance": 7348.23
+  },
+  "Command - Move Down": {
+    "avg": [
+      86,
+      107,
+      91
+    ],
+    "variance": 6469.7
+  },
+  "Command - Move Left": {
+    "avg": [
+      86,
+      107,
+      91
+    ],
+    "variance": 6363.29
+  },
+  "Command - Move Right": {
+    "avg": [
+      86,
+      107,
+      91
+    ],
+    "variance": 6363.29
+  },
+  "Command - Move Up": {
+    "avg": [
+      86,
+      107,
+      91
+    ],
+    "variance": 6469.7
+  },
+  "Command - Pause": {
+    "avg": [
+      83,
+      114,
+      91
+    ],
+    "variance": 7337.26
+  },
+  "Evil Eye": {
+    "avg": [
+      0,
+      124,
+      121
+    ],
+    "variance": 1344.53
+  },
+  "Forcefield": {
+    "avg": [
+      243,
+      81,
+      243
+    ],
+    "variance": 4160.37
+  },
+  "Portrait": {
+    "avg": [
+      155,
+      167,
+      150
+    ],
+    "variance": 10957.53
+  },
+  "Taco Truck Oven": {
+    "avg": [
+      182,
+      139,
+      82
+    ],
+    "variance": 17107.2
+  },
+  "Lucky Kitty": {
+    "avg": [
+      219,
+      206,
+      194
+    ],
+    "variance": 10821.64
+  },
+  "Potato Couch": {
+    "avg": [
+      97,
+      75,
+      46
+    ],
+    "variance": 593.02
+  },
+  "Snowy Rocks": {
+    "avg": [
+      156,
+      156,
+      156
+    ],
+    "variance": 15061.99
+  },
+  "Unlucky Kitty": {
+    "avg": [
+      66,
+      56,
+      42
+    ],
+    "variance": 7835.62
+  },
+  "Wolf Gate": {
+    "avg": [
+      166,
+      162,
+      157
+    ],
+    "variance": 12534.79
+  },
+  "Balloon Warz Leaderboard": {
+    "avg": [
+      156,
+      119,
+      99
+    ],
+    "variance": 11470.03
+  },
+  "Carnival Spikeball": {
+    "avg": [
+      223,
+      95,
+      43
+    ],
+    "variance": 9869.08
+  },
+  "Harvest Seed Crate": {
+    "avg": [
+      169,
+      118,
+      53
+    ],
+    "variance": 10754.63
+  },
+  "Lucky Shamrock Seat": {
+    "avg": [
+      134,
+      112,
+      68
+    ],
+    "variance": 5721.18
+  },
+  "Tropical Fruit Crate": {
+    "avg": [
+      190,
+      152,
+      70
+    ],
+    "variance": 12439.58
+  },
+  "Uranium Chair": {
+    "avg": [
+      99,
+      127,
+      67
+    ],
+    "variance": 12522.85
+  },
+  "Fossil Rock": {
+    "avg": [
+      173,
+      170,
+      158
+    ],
+    "variance": 2227.12
+  },
+  "Rock": {
+    "avg": [
+      173,
+      170,
+      158
+    ],
+    "variance": 2158.46
+  },
+  "Steam Scrambler": {
+    "avg": [
+      174,
+      126,
+      78
+    ],
+    "variance": 3641.39
+  },
+  "Greezak Horde Starship Helm - Mk.I": {
+    "avg": [
+      71,
+      80,
+      66
+    ],
+    "variance": 5221.56
+  },
+  "HyperTech Starship Helm - Mk.I": {
+    "avg": [
+      107,
+      54,
+      46
+    ],
+    "variance": 6342.69
+  },
+  "Imperial Starship Helm - Mk.I": {
+    "avg": [
+      131,
+      140,
+      142
+    ],
+    "variance": 13978.61
+  },
+  "Steam Crossover": {
+    "avg": [
+      169,
+      128,
+      81
+    ],
+    "variance": 3970.11
+  },
+  "Stellarix Union Starship Helm - Mk.I": {
+    "avg": [
+      88,
+      82,
+      51
+    ],
+    "variance": 4870.72
+  },
+  "Bear Wall Mount": {
+    "avg": [
+      87,
+      69,
+      50
+    ],
+    "variance": 4908.79
+  },
+  "Ceremonial Altar": {
+    "avg": [
+      79,
+      133,
+      75
+    ],
+    "variance": 8138.76
+  },
+  "Cuzco Wall Mount": {
+    "avg": [
+      110,
+      95,
+      80
+    ],
+    "variance": 12937.56
+  },
+  "Black Calavera Skull": {
+    "avg": [
+      88,
+      88,
+      94
+    ],
+    "variance": 8502.31
+  },
+  "Calavera Skull": {
+    "avg": [
+      200,
+      146,
+      71
+    ],
+    "variance": 17635.71
+  },
+  "Diamond Calavera Skull": {
+    "avg": [
+      102,
+      166,
+      175
+    ],
+    "variance": 18402.01
+  },
+  "HyperTech Starship Reactor - Mk.III": {
+    "avg": [
+      98,
+      46,
+      36
+    ],
+    "variance": 6248.8
+  },
+  "Snowy Fence": {
+    "avg": [
+      181,
+      180,
+      176
+    ],
+    "variance": 16985.1
+  },
+  "Easter Egg - Wooly": {
+    "avg": [
+      191,
+      185,
+      175
+    ],
+    "variance": 15161.49
+  },
+  "Reception Desk": {
+    "avg": [
+      184,
+      203,
+      181
+    ],
+    "variance": 9249.29
+  },
+  "Ancient Stone Gate": {
+    "avg": [
+      221,
+      215,
+      169
+    ],
+    "variance": 612.25
+  },
+  "B.O.O. Sign": {
+    "avg": [
+      160,
+      178,
+      139
+    ],
+    "variance": 18811.28
+  },
+  "Chest of Wonders": {
+    "avg": [
+      138,
+      126,
+      71
+    ],
+    "variance": 16641.07
+  },
+  "Gummy Bear Block - Green": {
+    "avg": [
+      161,
+      197,
+      107
+    ],
+    "variance": 4317.17
+  },
+  "Gummy Bear Block - Red": {
+    "avg": [
+      211,
+      58,
+      68
+    ],
+    "variance": 3185.21
+  },
+  "Gummy Bear Block - Yellow": {
+    "avg": [
+      229,
+      203,
+      52
+    ],
+    "variance": 1433.61
+  },
+  "Wooden Guard Tower": {
+    "avg": [
+      134,
+      80,
+      47
+    ],
+    "variance": 5653.53
+  },
+  "Ye Olde Tavern Roof": {
+    "avg": [
+      124,
+      94,
+      90
+    ],
+    "variance": 13779.97
+  },
+  "Greezak Horde Starship Reactor - Mk.III": {
+    "avg": [
+      137,
+      109,
+      62
+    ],
+    "variance": 10207.75
+  },
+  "Grow-Cola Block": {
+    "avg": [
+      188,
+      72,
+      78
+    ],
+    "variance": 16238.62
+  },
+  "Highly Combustible Box": {
+    "avg": [
+      139,
+      79,
+      49
+    ],
+    "variance": 953.1
+  },
+  "Jolly Jelly": {
+    "avg": [
+      108,
+      198,
+      88
+    ],
+    "variance": 4499.88
+  },
+  "Atomic Fireball": {
+    "avg": [
+      230,
+      138,
+      100
+    ],
+    "variance": 26972.87
+  }
+}
