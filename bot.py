@@ -1,6 +1,6 @@
 """
 Growtopia Pixel Art Discord Bot
-Slash command: /pixel [width] [height] with image attachment
+Slash command: /pixel [image] [width] [height]
 Results sent via DM with full shopping list as .txt file.
 Private bot - owner only.
 """
@@ -258,19 +258,13 @@ bot = PixelBot()
 
 @bot.tree.command(name="pixel", description="Convert an image to Growtopia pixel art")
 @app_commands.describe(
+    image="Your image file (PNG/JPG)",
     width=f"Width in pixels (max {MAX_DIM})",
-    height=f"Height in pixels (max {MAX_DIM})",
-    image="Your image file (PNG/JPG)"
+    height=f"Height in pixels (max {MAX_DIM})"
 )
 async def pixel(interaction: discord.Interaction, image: discord.Attachment, width: int = 70, height: int = 70):
-    # Only allow owner
     if interaction.user.id != OWNER_ID:
         await interaction.response.send_message("This bot is private.", ephemeral=True)
-        return
-    
-    # Block DMs
-    if interaction.guild is None:
-        await interaction.response.send_message("Please use this command in a server.", ephemeral=True)
         return
     
     if width > MAX_DIM or height > MAX_DIM:
