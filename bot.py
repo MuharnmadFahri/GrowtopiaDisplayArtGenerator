@@ -20,7 +20,17 @@ load_dotenv()
 # CONFIG
 # ============================================
 TOKEN = os.getenv("DISCORD_TOKEN")
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Find the correct base directory
+possible_paths = ["/app", "/home/container", os.path.dirname(os.path.abspath(__file__))]
+BASE_DIR = None
+for path in possible_paths:
+    if os.path.exists(os.path.join(path, "sprites")):
+        BASE_DIR = path
+        break
+if BASE_DIR is None:
+    BASE_DIR = possible_paths[-1]
+
 SPRITES_DIR = os.path.join(BASE_DIR, "sprites")
 STATS_FILE = os.path.join(BASE_DIR, "item_stats.json")
 SOLID_FILE = os.path.join(BASE_DIR, "solid_items.json")
