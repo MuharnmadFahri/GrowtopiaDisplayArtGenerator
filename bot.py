@@ -2,7 +2,7 @@
 Growtopia Pixel Art Discord Bot
 Slash command: /pixel [image] [width] [height]
 Results sent via DM with full shopping list as .txt file.
-Private bot - owner only.
+Anyone in server can use it. Bot cannot be added to other servers (set in Discord Dev Portal).
 """
 
 import discord
@@ -21,7 +21,6 @@ load_dotenv()
 # CONFIG
 # ============================================
 TOKEN = os.getenv("DISCORD_TOKEN")
-OWNER_ID = 1159862057626247279
 
 # Find the correct base directory
 possible_paths = ["/app", "/home/container", os.path.dirname(os.path.abspath(__file__))]
@@ -263,10 +262,6 @@ bot = PixelBot()
     height=f"Height in pixels (max {MAX_DIM})"
 )
 async def pixel(interaction: discord.Interaction, image: discord.Attachment, width: int = 70, height: int = 70):
-    if interaction.user.id != OWNER_ID:
-        await interaction.response.send_message("This bot is private.", ephemeral=True)
-        return
-    
     if width > MAX_DIM or height > MAX_DIM:
         await interaction.response.send_message(
             f"Max dimensions are {MAX_DIM}x{MAX_DIM}. You requested {width}x{height}.",
