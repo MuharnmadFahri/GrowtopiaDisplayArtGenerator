@@ -1,8 +1,9 @@
 """
 Growtopia Pixel Art Discord Bot
-Slash command: /pixel [image] [width] [height]
-Results sent via DM with full shopping list as .txt file.
-Anyone in server can use it. Bot cannot be added to other servers (set in Discord Dev Portal).
+Slash commands: /pixel [image] [width] [height]
+                /reset_cooldown [user]
+Results sent via DM with comparison, shelf preview, and shopping list.
+5-hour cooldown per user. Server only. Owner bypass.
 """
 
 import discord
@@ -12,6 +13,7 @@ import os
 import json
 import math
 import io
+import time
 from PIL import Image, ImageDraw, ImageFont
 from collections import Counter
 
@@ -21,6 +23,8 @@ load_dotenv()
 # CONFIG
 # ============================================
 TOKEN = os.getenv("DISCORD_TOKEN")
+OWNER_ID = 1159862057626247279  # Your Discord user ID
+COOLDOWN_HOURS = 5
 
 # Find the correct base directory
 possible_paths = ["/app", "/home/container", os.path.dirname(os.path.abspath(__file__))]
@@ -38,7 +42,9 @@ SOLID_FILE = os.path.join(BASE_DIR, "solid_items.json")
 SHELF_SPRITE = os.path.join(SPRITES_DIR, "Display Shelf.png")
 SHELF_CHARCOAL = os.path.join(SPRITES_DIR, "Display Shelf Charcoal.png")
 SPRITE_SIZE = 15
-MAX_DIM = 100
+MAX_DIM = 70
+
+user_cooldowns = {}
 
 # ============================================
 # LOAD DATA
@@ -262,6 +268,21 @@ bot = PixelBot()
     height=f"Height in pixels (max {MAX_DIM})"
 )
 async def pixel(interaction: discord.Interaction, image: discord.Attachment, width: int = 70, height: int = 70):
+    user_id = interaction.user.id
+    
+    # Cooldown check (owner bypass)
+    if user_id != OWNER_ID and user_id in user_cooldowns:
+        elapsed = time.time() - user_cooldowns[user_id]
+        if elapsed < COOLDOWN_HOURS * 3600:
+            remaining = COOLDOWN_HOURS * 3600 - elapsed
+            hours = int(remaining // 3600)
+            minutes = int((remaining % 3600) // 60)
+            await interaction.response.send_message(
+                f"Cooldown! Please wait {hours}h {minutes}m.",
+                ephemeral=True
+            )
+            return
+    
     if width > MAX_DIM or height > MAX_DIM:
         await interaction.response.send_message(
             f"Max dimensions are {MAX_DIM}x{MAX_DIM}. You requested {width}x{height}.",
@@ -278,10 +299,11 @@ async def pixel(interaction: discord.Interaction, image: discord.Attachment, wid
         return
     
     await interaction.response.defer(ephemeral=True)
+    
     if interaction.guild is None:
         await interaction.followup.send("This bot can only be used in a server.", ephemeral=True)
         return
-        
+    
     try:
         img_bytes = await image.read()
         img = Image.open(io.BytesIO(img_bytes)).convert("RGB")
@@ -293,6 +315,11 @@ async def pixel(interaction: discord.Interaction, image: discord.Attachment, wid
         comp.save(output, format='PNG')
         output.seek(0)
         
+        shelf_new = build_shelf_image(grid_new, width, height, SHELF_SPRITE)
+        shelf_output = io.BytesIO()
+        shelf_new.save(shelf_output, format='PNG')
+        shelf_output.seek(0)
+        
         counts_new = Counter()
         for row in grid_new:
             counts_new.update(row)
@@ -303,12 +330,15 @@ async def pixel(interaction: discord.Interaction, image: discord.Attachment, wid
         txt_content = build_shopping_txt(counts_new, counts_old, width, height)
         txt_file = io.BytesIO(txt_content.encode('utf-8'))
         
+        user_cooldowns[user_id] = time.time()
+        
         try:
             dm = await interaction.user.create_dm()
             await dm.send(
                 content=f"{width}x{height} | {len(counts_new)} items (new) | {len(counts_old)} items (old) | {width*height} total pixels",
                 files=[
                     discord.File(output, filename=f"pixelart_{width}x{height}.png"),
+                    discord.File(shelf_output, filename=f"shelf_new_{width}x{height}.png"),
                     discord.File(txt_file, filename=f"shopping_list_{width}x{height}.txt")
                 ]
             )
@@ -322,10 +352,26 @@ async def pixel(interaction: discord.Interaction, image: discord.Attachment, wid
     except Exception as e:
         await interaction.followup.send(f"Error: {e}", ephemeral=True)
 
+@bot.tree.command(name="reset_cooldown", description="Reset cooldown for a user (Owner only)")
+@app_commands.describe(user="User to reset cooldown for (leave blank to reset all)")
+async def reset_cooldown(interaction: discord.Interaction, user: discord.User = None):
+    if interaction.user.id != OWNER_ID:
+        await interaction.response.send_message("Owner only.", ephemeral=True)
+        return
+    
+    if user:
+        user_cooldowns.pop(user.id, None)
+        await interaction.response.send_message(f"Cooldown reset for {user.mention}.", ephemeral=True)
+    else:
+        user_cooldowns.clear()
+        await interaction.response.send_message("All cooldowns reset.", ephemeral=True)
+
 @bot.event
 async def on_ready():
     print(f"Ready! Logged in as {bot.user}")
     print(f"Max dimensions: {MAX_DIM}x{MAX_DIM}")
+    print(f"Cooldown: {COOLDOWN_HOURS} hours per user")
+    print(f"Owner ID: {OWNER_ID}")
 
 if __name__ == "__main__":
     if not TOKEN:
