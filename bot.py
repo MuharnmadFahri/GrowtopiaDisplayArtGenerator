@@ -278,7 +278,10 @@ async def pixel(interaction: discord.Interaction, image: discord.Attachment, wid
         return
     
     await interaction.response.defer(ephemeral=True)
-    
+    if interaction.guild is None:
+        await interaction.followup.send("This bot can only be used in a server.", ephemeral=True)
+        return
+        
     try:
         img_bytes = await image.read()
         img = Image.open(io.BytesIO(img_bytes)).convert("RGB")
