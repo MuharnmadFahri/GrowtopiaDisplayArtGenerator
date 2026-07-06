@@ -2,6 +2,7 @@
 Growtopia Pixel Art Discord Bot
 Slash command: /pixel [width] [height] with image attachment
 Results sent via DM with full shopping list as .txt file.
+Private bot - owner only.
 """
 
 import discord
@@ -20,6 +21,7 @@ load_dotenv()
 # CONFIG
 # ============================================
 TOKEN = os.getenv("DISCORD_TOKEN")
+OWNER_ID = 1159862057626247279
 
 # Find the correct base directory
 possible_paths = ["/app", "/home/container", os.path.dirname(os.path.abspath(__file__))]
@@ -261,6 +263,16 @@ bot = PixelBot()
     image="Your image file (PNG/JPG)"
 )
 async def pixel(interaction: discord.Interaction, image: discord.Attachment, width: int = 70, height: int = 70):
+    # Only allow owner
+    if interaction.user.id != OWNER_ID:
+        await interaction.response.send_message("This bot is private.", ephemeral=True)
+        return
+    
+    # Block DMs
+    if interaction.guild is None:
+        await interaction.response.send_message("Please use this command in a server.", ephemeral=True)
+        return
+    
     if width > MAX_DIM or height > MAX_DIM:
         await interaction.response.send_message(
             f"Max dimensions are {MAX_DIM}x{MAX_DIM}. You requested {width}x{height}.",
@@ -285,12 +297,10 @@ async def pixel(interaction: discord.Interaction, image: discord.Attachment, wid
         grid_new, grid_old = match_pixels(img, width, height)
         comp = build_comparison(grid_new, grid_old, width, height, img)
         
-        # Comparison image
         output = io.BytesIO()
         comp.save(output, format='PNG')
         output.seek(0)
         
-        # Counts
         counts_new = Counter()
         for row in grid_new:
             counts_new.update(row)
@@ -298,11 +308,9 @@ async def pixel(interaction: discord.Interaction, image: discord.Attachment, wid
         for row in grid_old:
             counts_old.update(row)
         
-        # Shopping list txt
         txt_content = build_shopping_txt(counts_new, counts_old, width, height)
         txt_file = io.BytesIO(txt_content.encode('utf-8'))
         
-        # Send to DM
         try:
             dm = await interaction.user.create_dm()
             await dm.send(
